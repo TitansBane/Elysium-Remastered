@@ -132,7 +132,7 @@ Please check that vsync is set to disable in enblocal.ini otherwise you will eit
 
 ## How to start up Elysium Remastered
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it. Ensure it is set to Elysium [SKSE] by selecting it in the dropdown box and then hitting the run button. You have to run Elysium [SKSE] through Mod Organizer 2 in order to play Elysium from now on.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it. Ensure it is set to Elysium [SKSE] by selecting it in the dropdown box and then hitting the run button. You have to run Elysium [SKSE] through Mod Organizer 2 in order to play Elysium Remastered from now on.
 
 ## Updating
 
