@@ -16,6 +16,7 @@
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Stock Game](#stock-game)
+    - [Creation Club](#creation-club)
     - [ENB](#enb)
   - [How to start up Elysium Remastered](#how-to-start-up-elysium-remastered)
   - [Updating](#updating)
@@ -122,6 +123,13 @@ Unlike regular Skyrim installation or other Wabbajack lists, Elysium Remastered 
 
 It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Therefore, after Wabbajack completes, you don't need to move anything to your regular Skyrim installation. If you wish to change ENB please follow the steps below.
 
+### Creation Club
+
+Elysium Remastered utilizes all Creation Club content for Legacy of the Dragonborn and various other mods. It is fully integrated into Skyrim's world. The list requires all purchasable downloadables or the Anniversary Upgrade to start up and play.
+
+There is an empty mod at the top left of MO2 called `[NoDelete] Creation Club` below `00 OFFICIAL MASTER FILES` that you can put all of your paid Creation Club content into. As such, there is no need to worry if you ever decide to update Elysium Remastered again. The contents of that folder will be safe from being deleted the next time you update.
+
+
 ### ENB
 
 Elysium Remastered comes configured with [PRT XII - PhotoRealistic Tamriel 12](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
@@ -220,12 +228,6 @@ Elysium also has a lot of modified vanilla quests such as:
 ### Audio and Weather
 
 [Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466), [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523), and [Sounds of Skyrim Complete](https://www.nexusmods.com/skyrimspecialedition/mods/8286) offer an amazing base for Skyrim's ambiance and foley.
-
-### Creation Club
-
-Elysium Remastered utilizes all Creation Club content for Legacy of the Dragonborn and various other mods. It is fully integrated into Skyrim's world. The list requires all purchasable downloadables or the Anniversary Upgrade to start up and play.
-
-There is an empty mod at the top left of MO2 called `[NoDelete] Creation Club` below `00 OFFICIAL MASTER FILES` that you can put all of your paid Creation Club content into. As such, there is no need to worry if you ever decide to update Elysium Remastered again. The contents of that folder will be safe from being deleted the next time you update.
 
 ## Creating your Character
 
