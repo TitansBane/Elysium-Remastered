@@ -42,6 +42,8 @@
 
 Elysium Remastered is a complete rebuild of the original Elysium mod list. Like the original, it focuses primarily on visuals and fully features hundreds of new additions and full Creation Club support ($20 for Anniversary Upgrade is required)—extending the base setup with Enai Siaion's full suite of gameplay overhauls and various new quests and encounters. In addition, many new mods, such as Beyond Skyrim - Bruma, Interesting NPCs, Legacy of the Dragonborn, Wyrmstooth, and a wide variety of new content, were added. You should expect a more challenging game with this list.
 
+**Yes, this means you NEED the $20 Anniversary Edition upgrade to install this list**
+
 ## Installation
 
 ### Pre-Installation
@@ -75,6 +77,8 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 #### Start Skyrim
 
 After you have done everything above and got a clean SSE installation-ready, start the Launcher and let it do the initial graphics check. Do not worry about this part as the installation will replace these graphics settings. Start the game and exit once you're in the main menu.
+
+**Now, log in to the Creation Club and download all of the Creation Club content.**
 
 ### Using Wabbajack
 
