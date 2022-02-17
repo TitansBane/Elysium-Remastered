@@ -16,6 +16,7 @@
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Stock Game](#stock-game)
+    - [Creation Club](#creation-club)
     - [ENB](#enb)
   - [How to start up Elysium Remastered](#how-to-start-up-elysium-remastered)
   - [Updating](#updating)
@@ -41,6 +42,8 @@
 ## Preface
 
 Elysium Remastered is a complete rebuild of the original Elysium mod list. Like the original, it focuses primarily on visuals and fully features hundreds of new additions and full Creation Club support ($20 for Anniversary Upgrade is required)—extending the base setup with Enai Siaion's full suite of gameplay overhauls and various new quests and encounters. In addition, many new mods, such as Beyond Skyrim - Bruma, Interesting NPCs, Legacy of the Dragonborn, Wyrmstooth, and a wide variety of new content, were added. You should expect a more challenging game with this list.
+
+**Yes, this means you NEED the $20 Anniversary Edition upgrade to install this list**
 
 ## Installation
 
@@ -74,7 +77,11 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 #### Start Skyrim
 
-After you have done everything above and got a clean SSE installation-ready, start the Launcher and let it do the initial graphics check. Do not worry about this part as the installation will replace these graphics settings. Start the game and exit once you're in the main menu.
+After you have done everything above and got a clean SSE installation-ready, start the Launcher and let it do the initial graphics check. Do not worry about this part as the installation will replace these graphics settings, then Start Skyrim.
+
+**Now, log in to the Creation Club and download all of the Creation Club content.**
+
+Once that done, close Skyrim.
 
 ### Using Wabbajack
 
@@ -115,6 +122,13 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 Unlike regular Skyrim installation or other Wabbajack lists, Elysium Remastered comes with the **Stock Game Feature** which is a copy of a Skyrim installation located within your installation folder, cleaned, and with everything you need to start playing now. 
 
 It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Therefore, after Wabbajack completes, you don't need to move anything to your regular Skyrim installation. If you wish to change ENB please follow the steps below.
+
+### Creation Club
+
+Elysium Remastered utilizes all Creation Club content for Legacy of the Dragonborn and various other mods. It is fully integrated into Skyrim's world. The list requires all purchasable downloadables or the Anniversary Upgrade to start up and play.
+
+There is an empty mod at the top left of MO2 called `[NoDelete] Creation Club` below `00 OFFICIAL MASTER FILES` that you can put all of your paid Creation Club content into. As such, there is no need to worry if you ever decide to update Elysium Remastered again. The contents of that folder will be safe from being deleted the next time you update.
+
 
 ### ENB
 
@@ -214,12 +228,6 @@ Elysium also has a lot of modified vanilla quests such as:
 ### Audio and Weather
 
 [Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466), [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523), and [Sounds of Skyrim Complete](https://www.nexusmods.com/skyrimspecialedition/mods/8286) offer an amazing base for Skyrim's ambiance and foley.
-
-### Creation Club
-
-Elysium Remastered utilizes all Creation Club content for Legacy of the Dragonborn and various other mods. It is fully integrated into Skyrim's world. The list requires all purchasable downloadables or the Anniversary Upgrade to start up and play.
-
-There is an empty mod at the top left of MO2 called `[NoDelete] Creation Club` below `00 OFFICIAL MASTER FILES` that you can put all of your paid Creation Club content into. As such, there is no need to worry if you ever decide to update Elysium Remastered again. The contents of that folder will be safe from being deleted the next time you update.
 
 ## Creating your Character
 
