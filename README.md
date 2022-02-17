@@ -76,9 +76,11 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 #### Start Skyrim
 
-After you have done everything above and got a clean SSE installation-ready, start the Launcher and let it do the initial graphics check. Do not worry about this part as the installation will replace these graphics settings. Start the game and exit once you're in the main menu.
+After you have done everything above and got a clean SSE installation-ready, start the Launcher and let it do the initial graphics check. Do not worry about this part as the installation will replace these graphics settings, then Start Skyrim.
 
 **Now, log in to the Creation Club and download all of the Creation Club content.**
+
+Once that done, close Skyrim.
 
 ### Using Wabbajack
 
