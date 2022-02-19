@@ -132,14 +132,13 @@ There is an empty mod at the top left of MO2 called `[NoDelete] Creation Club` b
 
 ### ENB
 
-Elysium Remastered comes configured with [PRT XII - PhotoRealistic Tamriel 12](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
+Elysium Remastered comes configured with a tweak combination of both [NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.0](https://www.nexusmods.com/skyrimspecialedition/mods/27141) and [PRT XII - PhotoRealistic Tamriel 12](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
 
 Suppose you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support NAT.ENB. To replace the ENB installed, delete the enbcache folder, enbseries folder, enbseries.ini, and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
 A few other ENB suggestions are:
 
 - [Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)
-- [NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.0](https://www.nexusmods.com/skyrimspecialedition/mods/27141)
 
 **Note:**
 Please check that vsync is set to disable in enblocal.ini otherwise you will either be stuck compiling shaders or a black screen, or the menu with no options.
@@ -256,6 +255,7 @@ These are currently the custom controls added by Mods. Feel free to customize th
 - Crouch Sliding - Crouch Slide : Press and hold Alt + Ctrl
 - Immersive HUD - Toggle HUD : X
 - Nether's Follower Framework - Horse Whistle : H
+- OBody - Apply Bodyslide Preset : F10
 - The Ultimate Dodge Mod - Dodge : Shift **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
 - The Ultimate Dodge Mod - Change Dodging Style : G (This changes between side-stepping and rolling)
 
