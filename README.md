@@ -1,3 +1,5 @@
+![Logo](https://github.com/TitansBane/Elysium-Remastered/raw/master/image/Elysium_Remastered_Banner.webp)
+
 # Elysium Remastered
 
 - [Elysium Remastered](#elysium-remastered)
