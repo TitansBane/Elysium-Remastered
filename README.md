@@ -43,7 +43,7 @@
 
 ## Preface
 
-Elysium Remastered is a complete rebuild of the original Elysium mod list. Like the original, it focuses primarily on visuals and fully features hundreds of new additions and full Creation Club support ($20 for Anniversary Upgrade is required)—extending the base setup with Enai Siaion's full suite of gameplay overhauls and various new quests and encounters. In addition, many new mods, such as Beyond Skyrim - Bruma, Interesting NPCs, Legacy of the Dragonborn, Wyrmstooth, and a wide variety of new content, were added. You should expect a more challenging game with this list.
+Elysium Remastered is a complete rebuild of the original Elysium modlist. Like the original, it focuses primarily on visuals and fully features hundreds of new additions and full Creation Club support ($20 for Anniversary Upgrade is required)—extending the base setup with Enai Siaion's full suite of gameplay overhauls and various new quests and encounters. In addition, many new mods, such as Beyond Skyrim - Bruma, Interesting NPCs, Legacy of the Dragonborn, Wyrmstooth, and a wide variety of new content, were added. You should expect a more challenging game with this list.
 
 **Yes, this means you NEED the $20 Anniversary Edition upgrade to install this list**
 
@@ -128,9 +128,6 @@ It allows you to not worry about conflicting files with Vortex or other Wabbajac
 ### Creation Club
 
 Elysium Remastered utilizes all Creation Club content for Legacy of the Dragonborn and various other mods. It is fully integrated into Skyrim's world. The list requires all purchasable downloadables or the Anniversary Upgrade to start up and play.
-
-There is an empty mod at the top left of MO2 called `[NoDelete] Creation Club` below `00 OFFICIAL MASTER FILES` that you can put all of your paid Creation Club content into. As such, there is no need to worry if you ever decide to update Elysium Remastered again. The contents of that folder will be safe from being deleted the next time you update.
-
 
 ### ENB
 
