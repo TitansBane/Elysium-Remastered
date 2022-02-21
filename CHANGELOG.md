@@ -35,6 +35,7 @@
 - Added [Elder Council Amulet - Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/63931)
 - Added [ENB Light for Swamp fungal pod retexture by Mari](https://www.nexusmods.com/skyrimspecialedition/mods/63900)
 - Added [High Poly Head ENB Brow Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63991)
+- Added [Neloth's Experimental Subject Quest (DLC2TTR4a) Fix](https://www.nexusmods.com/skyrimspecialedition/mods/64016)
 - Added [NPC Animation Remix (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/63471)
 - Updated [eFPS - Official Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/54998)
 - Updated [JK's Haelga's Bunkhouse](https://www.nexusmods.com/skyrimspecialedition/mods/60085)
