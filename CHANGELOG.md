@@ -26,7 +26,7 @@
 
 ## Elysium Remastered v1.0.2
 
-### Released at: `Unreleased`
+### Released at: `2/21/2022`
 
 ### Download Changes:
 
