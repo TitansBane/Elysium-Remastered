@@ -279,7 +279,7 @@ Most of the files below are available on the [Complete Widescreen Fix](https://w
 Download the following file :
   - Main Files : Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080
   
-Install as usual. Place the mod below SkyUI in the mod order and SkyUI_SE.esp in the load order.
+Install as usual. Place the mod below SkyUI Weapons Pack SE in the mod order and SkyUI_SE.esp in the load order.
 
 #### Better Dialogue & MessageBox Controls
 Download the following files :
