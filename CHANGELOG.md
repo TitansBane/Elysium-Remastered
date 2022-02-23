@@ -72,6 +72,6 @@
 ### Tweaks and Fixes:
 
 - Added Dyndolod support for Wintersun, so shrines are now visible from a distance.
-- Dramatically increase brightness for all interiors—no more walking in total darkness.
+- Dramatically increase brightness for interiors—no more walking in total darkness.
 - Fixed a floating lantern in Darkwater Crossing.
 - Fixed an issue that caused Myrwatch cell to break.
