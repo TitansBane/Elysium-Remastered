@@ -47,3 +47,31 @@
 
 - ENB exposure value slightly increased to brighten up nights and indoors.
 - WACCF Ancient Nord Dagger/Ancient Nord Honed Dagger replacer from the Fishing CC can now be displayed in the LotD museum.
+
+## Elysium Remastered v1.1.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [GG's Thieves Guild Headquarters](https://www.nexusmods.com/skyrimspecialedition/mods/64018)
+- Added [GG's Thieves Guild HQ Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/63967)
+- Added [RYFTEN - Consistency of windows in Riften](https://www.nexusmods.com/skyrimspecialedition/mods/61536)
+- Updated [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
+- Updated [Expanded Towns and Cities (SSE)](https://www.nexusmods.com/skyrimspecialedition/mods/13552)
+- Updated [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653)
+- Updated [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001)
+- Updated [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)
+
+### Tweaks and Fixes:
+
+- Added Dyndolod support for Wintersun, so shrines are now visible from a distance.
+- Dramatically increase brightness for all interiors—no more walking in total darkness.
+- Fixed a floating lantern in Darkwater Crossing.
+- Fixed an issue that caused Myrwatch cell to break.
