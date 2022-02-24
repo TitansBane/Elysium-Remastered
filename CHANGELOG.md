@@ -75,3 +75,20 @@
 - Dramatically increase brightness for interiors—no more walking in total darkness.
 - Fixed a floating lantern in Darkwater Crossing.
 - Fixed an issue that caused Myrwatch cell to break.
+
+## Elysium Remastered v1.1.1
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Updated [Cities of the North - Morthal Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/34228)
+- Updated [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)
+- Updated [GG's Thieves Guild HQ Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/63967)
+- Updated [The Great Village of Kynesgrove Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/42957)
+- Updated [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
+
+### Tweaks and Fixes:
+
+- Fixed a mesh that was broken in Riften.
+- Tweak ENB water settings to fix water seams.
