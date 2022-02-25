@@ -82,6 +82,7 @@
 
 ### Download Changes:
 
+- Added [TrueHUD - HUD Additions](https://www.nexusmods.com/skyrimspecialedition/mods/62775)
 - Updated [Cities of the North - Morthal Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/34228)
 - Updated [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)
 - Updated [GG's Thieves Guild HQ Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/63967)
