@@ -93,3 +93,15 @@
 
 - Fixed a mesh that was broken in Riften.
 - Tweak ENB water settings to fix water seams.
+
+## Elysium Remastered v1.1.2
+
+### Released at: `Unreleased`
+
+### Tweaks and Fixes:
+
+- Disable a rowboat added by JKs in the Riften canal that was clipping due to a wooded bridge placed by 3DNPC.
+- Edit the dialogue conditions from Hunters Dialogue Edit so certain NPCs won't have unvoiced lines.
+- Fixed a material type from Nchuanthumz, so the objects don't get the parallax visual bug.
+- Fixed visual issues outside of the Myrwatch tower.
+- Patched both Artifacts - The Tournament of the ten Bloods and the Nchuanthumz, so both entrances don't overlap at the same spot. The new entry for the Mountain Pass is now located within Frostroot Cave.
