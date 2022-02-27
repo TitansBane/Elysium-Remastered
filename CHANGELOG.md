@@ -107,3 +107,34 @@
 - Fixed visual issues outside of the Myrwatch tower.
 - Patched both Artifacts - The Tournament of the ten Bloods and the Nchuanthumz, so both entrances don't overlap at the same spot. The new entry for the Mountain Pass is now located within Frostroot Cave.
 - Reduce enemy mages' chance of having spells like Necroplague and Spider Touch from 20% to 5%.
+
+## Elysium Remastered v1.2.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/62861)
+- Updated [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349)
+- Updated [Aspens Ablaze](https://www.nexusmods.com/skyrimspecialedition/mods/39998)
+- Updated [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875)
+- Updated [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
+- Updated [Dynamic Things Alternative - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60741)
+- Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
+- Updated [Favor Jobs Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40145)
+- Updated [Go to bed](https://www.nexusmods.com/skyrimspecialedition/mods/4224)
+- Updated [Go To Bed - DAR patch](https://www.nexusmods.com/skyrimspecialedition/mods/43714)
+- Updated [JK's Guild HQ Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/61416)
+- Updated [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [RYFTEN - Consistency of windows in Riften](https://www.nexusmods.com/skyrimspecialedition/mods/61536)
+- Removed [Go to bed - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56286)
+
+### Tweaks and Fixes:
+
+- Added seasonal support for The Rift region.
+- Fixed Vampires getting stuck in the feeding animation.
+- The Bless Home spell is no longer removed from the player.
