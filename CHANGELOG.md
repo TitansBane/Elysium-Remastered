@@ -128,13 +128,18 @@
 - Updated [Favor Jobs Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40145)
 - Updated [Go to bed](https://www.nexusmods.com/skyrimspecialedition/mods/4224)
 - Updated [Go To Bed - DAR patch](https://www.nexusmods.com/skyrimspecialedition/mods/43714)
+- Updated [Immersive folded hands (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/62849)
 - Updated [JK's Guild HQ Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/61416)
 - Updated [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [NPC Animation Remix (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/63471)
 - Updated [RYFTEN - Consistency of windows in Riften](https://www.nexusmods.com/skyrimspecialedition/mods/61536)
+- Updated [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
+- Removed [EVG Animation Variance](https://www.nexusmods.com/skyrimspecialedition/mods/38534)
 - Removed [Go to bed - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56286)
 
 ### Tweaks and Fixes:
 
 - Added seasonal support for The Rift region.
 - Fixed Vampires getting stuck in the feeding animation.
+- Hopefully, fixed animation crashes.
 - The Bless Home spell is no longer removed from the player.
