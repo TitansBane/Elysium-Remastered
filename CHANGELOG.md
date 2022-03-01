@@ -144,7 +144,7 @@
 - Hopefully, fixed animation crashes.
 - The Bless Home spell is no longer removed from the player.
 
-## Elysium Remastered v1.1.1
+## Elysium Remastered v1.2.1
 
 ### Released at: `3/1/2022`
 
