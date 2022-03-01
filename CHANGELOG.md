@@ -143,3 +143,20 @@
 - Fixed Vampires getting stuck in the feeding animation.
 - Hopefully, fixed animation crashes.
 - The Bless Home spell is no longer removed from the player.
+
+## Elysium Remastered v1.1.1
+
+### Released at: `3/1/2022`
+
+### Download Changes:
+
+- Added [3D Ropes for Goldenhills Plantation](https://www.nexusmods.com/skyrimspecialedition/mods/59711)
+- Added [Particle Lights for ENB - Standing Stones](https://www.nexusmods.com/skyrimspecialedition/mods/64359)
+
+### Tweaks and Fixes:
+
+- Disable Immersive Interactions "Loot Compatibility Message" in the MCM to prevent an unintended message popping up when looting corpses sometimes.
+- Fixed an aspen log in an incorrect position for the Skyrim 3D Trees and Plants model.
+- Forward missing USSEP fixes to a dozen or more references from different mods overwriting those fixes.
+- Regenerated TexGen and DynDOLOD outputs to fix issues with LODs not unloading when transitioning to a different season.
+- Tweak the season settings for a missing worldspace and a static object that wasn't being swapped due to having an incorrect form ID. Freezes should be potentially fixed as well during winter.
