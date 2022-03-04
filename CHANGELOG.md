@@ -199,4 +199,6 @@
 
 - Consistency patch all modded shrines for More Immersive Activations and Survival Mode.
 - Consistency patch shrines display from the LotD Wintersun patch for all the new shrine models.
+- Fixed an area in the marshland that had no grass generated.
 - Fixed an issue with the Creation Club poison apple textures due to using a new mesh.
+- Updated the tundra volcanic grass with assets from Folkvangr to add more variety to the volcanic area.
