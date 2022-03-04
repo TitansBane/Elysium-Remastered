@@ -160,3 +160,42 @@
 - Forward missing USSEP fixes to a dozen or more references from different mods overwriting those fixes.
 - Regenerated TexGen and DynDOLOD outputs to fix issues with LODs not unloading when transitioning to a different season.
 - Tweak the season settings for a missing worldspace and a static object that wasn't being swapped due to having an incorrect form ID. Freezes should be potentially fixed as well during winter.
+
+## Elysium Remastered v1.2.2
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Added [Apocrypha ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/64463)
+- Added [Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733)
+- Added [Bright Falling Leaves Fix](https://www.nexusmods.com/skyrimspecialedition/mods/64524)
+- Added [Daedric Shrines - Sanguine](https://www.nexusmods.com/skyrimspecialedition/mods/64471)
+- Added [Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725)
+- Added [Fluffworks Texture Patches](https://www.nexusmods.com/skyrimspecialedition/mods/64445)
+- Added [FYX - 3D Dock Ramp](https://www.nexusmods.com/skyrimspecialedition/mods/64529)
+- Added [Khajiit Caravan Mules - Enderal Donkey Addon](https://www.nexusmods.com/skyrimspecialedition/mods/57986)
+- Added [Mari's flora](https://www.nexusmods.com/skyrimspecialedition/mods/45952)
+- Added [Oxygen Meter 2](https://www.nexusmods.com/skyrimspecialedition/mods/64532)
+- Added [Particle Lights for ENB - Falmer Drips](https://www.nexusmods.com/skyrimspecialedition/mods/64457)
+- Updated [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349)
+- Updated [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
+- Updated [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)
+- Updated [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653)
+- Updated [Fluffworks (Fluffy Animals)](https://www.nexusmods.com/skyrimspecialedition/mods/56361)
+- Updated [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425)
+- Updated [Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
+- Updated [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711)
+- Updated [Particle Lights for ENB - Standing Stones](https://www.nexusmods.com/skyrimspecialedition/mods/64359)
+- Updated [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
+- Updated [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107)
+- Removed [Jazbay by Mari](https://www.nexusmods.com/skyrimspecialedition/mods/43480)
+- Removed [Less Ugly Tundragrass](https://www.nexusmods.com/skyrimspecialedition/mods/26740)
+- Removed [Oxygen Meter](https://www.nexusmods.com/skyrimspecialedition/mods/57452)
+- Removed [Swamp fungal pod by Mari](https://www.nexusmods.com/skyrimspecialedition/mods/44017)
+
+### Tweaks and Fixes:
+
+- Consistency patch all modded shrines for More Immersive Activations and Survival Mode.
+- Consistency patch shrines display from the LotD Wintersun patch for all the new shrine models.
+- Fixed an issue with the Creation Club poison apple textures due to using a new mesh.
