@@ -189,6 +189,7 @@
 - Updated [Particle Lights for ENB - Standing Stones](https://www.nexusmods.com/skyrimspecialedition/mods/64359)
 - Updated [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
 - Updated [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107)
+- Removed [Dynamic Volumetric Lighting and Sun Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/44483)
 - Removed [Jazbay by Mari](https://www.nexusmods.com/skyrimspecialedition/mods/43480)
 - Removed [Less Ugly Tundragrass](https://www.nexusmods.com/skyrimspecialedition/mods/26740)
 - Removed [Oxygen Meter](https://www.nexusmods.com/skyrimspecialedition/mods/57452)
