@@ -176,7 +176,6 @@
 - Added [FYX - 3D Dock Ramp](https://www.nexusmods.com/skyrimspecialedition/mods/64529)
 - Added [Khajiit Caravan Mules - Enderal Donkey Addon](https://www.nexusmods.com/skyrimspecialedition/mods/57986)
 - Added [Mari's flora](https://www.nexusmods.com/skyrimspecialedition/mods/45952)
-- Added [Oxygen Meter 2](https://www.nexusmods.com/skyrimspecialedition/mods/64532)
 - Added [Particle Lights for ENB - Falmer Drips](https://www.nexusmods.com/skyrimspecialedition/mods/64457)
 - Updated [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349)
 - Updated [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
@@ -191,6 +190,7 @@
 - Updated [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
 - Updated [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107)
 - Removed [Dynamic Volumetric Lighting and Sun Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/44483)
+- Removed [Horse Stamina HUD - Script-Free](https://www.nexusmods.com/skyrimspecialedition/mods/47076)
 - Removed [Jazbay by Mari](https://www.nexusmods.com/skyrimspecialedition/mods/43480)
 - Removed [Less Ugly Tundragrass](https://www.nexusmods.com/skyrimspecialedition/mods/26740)
 - Removed [Oxygen Meter](https://www.nexusmods.com/skyrimspecialedition/mods/57452)
@@ -202,4 +202,5 @@
 - Consistency patch shrines display from the LotD Wintersun patch for all the new shrine models.
 - Fixed an area in the marshland that had no grass generated.
 - Fixed an issue with the Creation Club poison apple textures due to using a new mesh.
+- Swap to using the TrueHUD player widget over the default widget.
 - Updated the tundra volcanic grass with assets from Folkvangr to add more variety to the volcanic area.
