@@ -184,6 +184,7 @@
 - Updated [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653)
 - Updated [Fluffworks (Fluffy Animals)](https://www.nexusmods.com/skyrimspecialedition/mods/56361)
 - Updated [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425)
+- Updated [Honed Metal -NPC Crafting and Enchanting Services-](https://www.nexusmods.com/skyrimspecialedition/mods/61015)
 - Updated [Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
 - Updated [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711)
 - Updated [Particle Lights for ENB - Standing Stones](https://www.nexusmods.com/skyrimspecialedition/mods/64359)
