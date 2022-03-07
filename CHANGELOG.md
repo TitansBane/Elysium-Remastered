@@ -215,6 +215,7 @@
 - Added [Conditional Expressions - Subtle Face Animations - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/59851)
 - Added [FYX - 3D Whiterun Scaffold](https://www.nexusmods.com/skyrimspecialedition/mods/64641)
 - Added [FYX - Whiterun Drawbridge Gate](https://www.nexusmods.com/skyrimspecialedition/mods/64645)
+- Added [Improved Jail Bars](https://www.nexusmods.com/skyrimspecialedition/mods/64185)
 - Added [Particle Lights for ENB - Dwarven Spiders](https://www.nexusmods.com/skyrimspecialedition/mods/64313)
 - Added [Wonders of Weather - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/64273)
 - Updated [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316)
