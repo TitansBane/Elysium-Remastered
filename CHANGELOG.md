@@ -205,3 +205,33 @@
 - Fixed an issue with the Creation Club poison apple textures due to using a new mesh.
 - Swap to using the TrueHUD player widget over the default widget.
 - Updated the tundra volcanic grass with assets from Folkvangr to add more variety to the volcanic area.
+
+## Elysium Remastered v1.2.3
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Added [Conditional Expressions - Subtle Face Animations - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/59851)
+- Added [FYX - 3D Whiterun Scaffold](https://www.nexusmods.com/skyrimspecialedition/mods/64641)
+- Added [FYX - Whiterun Drawbridge Gate](https://www.nexusmods.com/skyrimspecialedition/mods/64645)
+- Added [Particle Lights for ENB - Dwarven Spiders](https://www.nexusmods.com/skyrimspecialedition/mods/64313)
+- Added [Wonders of Weather - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/64273)
+- Updated [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316)
+- Updated [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
+- Updated [Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725)
+- Updated [Fluffworks Texture Patches](https://www.nexusmods.com/skyrimspecialedition/mods/64445)
+- Updated [GG's Thieves Guild Headquarters](https://www.nexusmods.com/skyrimspecialedition/mods/64018)
+- Updated [Immersive Interactions - Animated Actions](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
+- Updated [Legacy of the Dragonborn - The Curators Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529)
+- Updated [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641)
+- Updated [Summermyst - WACCF Patch](https://www.nexusmods.com/skyrimspecialedition/mods/34547)
+- Removed [Summermyst Bugfixes for WACCF](https://www.nexusmods.com/skyrimspecialedition/mods/41077)
+
+### Tweaks and Fixes:
+
+- Added Cidhna Mine to the forbidden list for missive quests.
+- Automated a few more MCMs and updated the CCOR MCM settings.
+- Disabled both Brimstone and Wyrmstone crafting recipe at the smelter as Wyrmstooth no longer uses them.
