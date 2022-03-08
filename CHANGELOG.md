@@ -238,4 +238,4 @@
 - Added ICH compatibility for the Daedric Mail Helmet.
 - Automated a few more MCMs and updated the CCOR MCM settings.
 - Disabled both Brimstone and Wyrmstone crafting recipe at the smelter as Wyrmstooth no longer uses them.
-- Lots of xEdit fixes that were minor.
+- Lots of minor xEdit fixes and tweaks.
