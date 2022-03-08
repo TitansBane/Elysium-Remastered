@@ -220,6 +220,7 @@
 - Added [Wonders of Weather - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/64273)
 - Updated [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316)
 - Updated [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608)
+- Updated [Complete Crafting Overhaul Remastered - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/58179)
 - Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
 - Updated [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
 - Updated [Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725)
@@ -236,3 +237,4 @@
 - Added Cidhna Mine to the forbidden list for missive quests.
 - Automated a few more MCMs and updated the CCOR MCM settings.
 - Disabled both Brimstone and Wyrmstone crafting recipe at the smelter as Wyrmstooth no longer uses them.
+- Lots of xEdit fixes that were minor.
