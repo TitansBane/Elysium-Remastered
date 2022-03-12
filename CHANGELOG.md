@@ -239,3 +239,48 @@
 - Automated a few more MCMs and updated the CCOR MCM settings.
 - Disabled both Brimstone and Wyrmstone crafting recipe at the smelter as Wyrmstooth no longer uses them.
 - Lots of minor xEdit fixes and tweaks.
+
+## Elysium Remastered v1.3.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Crime Bounty Decay SE](https://www.nexusmods.com/skyrimspecialedition/mods/25457)
+- Added [Crime Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19647)
+- Added [Crime Overhaul Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/35853)
+- Added [Dialogue Animation Remix (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/64420)
+- Added [Elytra ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/64824)
+- Added [Fluffworks (Fluffy Animals) - Domestic Goat with Bell](https://www.nexusmods.com/skyrimspecialedition/mods/64744)
+- Added [FYX - 3D Farmhouse Walkway](https://www.nexusmods.com/skyrimspecialedition/mods/64809)
+- Added [Particle Lights for ENB - Fire Traps](https://www.nexusmods.com/skyrimspecialedition/mods/64690)
+- Added [Sensible Sleepwalking - Wake up at nearest All-Maker Stone](https://www.nexusmods.com/skyrimspecialedition/mods/64680)
+- Added [Spiders of Solstheim - ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/64818)
+- Added [Twitching Plates Fix](https://www.nexusmods.com/skyrimspecialedition/mods/64728)
+- Added [Water Effects Brightness and Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63862)
+- Added [Water Effects Brightness and Reflection Fix - Realistic Water Two Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64736)
+- Updated [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349)
+- Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845)
+- Updated [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753)
+- Updated [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
+- Updated [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+- Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397)
+- Updated [Complete Crafting Overhaul Remastered - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/58179)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [Dynamic Weather and Time Based Detection (SE and AE compatible)](https://www.nexusmods.com/skyrimspecialedition/mods/62546)
+- Updated [FYX - 3D Whiterun Drawbridge Gate](https://www.nexusmods.com/skyrimspecialedition/mods/64645)
+- Updated [FYX - 3D Whiterun Scaffold](https://www.nexusmods.com/skyrimspecialedition/mods/64641)
+- Updated [GG's Thieves Guild HQ Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/63967)
+- Updated [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425)
+- Updated [Legacy of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+- Updated [NPC Animation Remix (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/63471)
+- Updated [Pirate's Life for Me - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35163)
+- Updated [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612)
+- Updated [SC - KS Hairdos Retextured](https://www.nexusmods.com/skyrimspecialedition/mods/38820)
+- Updated [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
+- Updated [TROLL](https://www.nexusmods.com/skyrimspecialedition/mods/4682)
+- Updated [Yee Haaaa Horse Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42508)
