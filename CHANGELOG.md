@@ -284,3 +284,4 @@
 - Updated [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
 - Updated [TROLL](https://www.nexusmods.com/skyrimspecialedition/mods/4682)
 - Updated [Yee Haaaa Horse Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42508)
+- Removed [Rapid Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/26532)
