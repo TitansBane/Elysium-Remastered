@@ -355,7 +355,6 @@ You can remove the MO2 folder and be done with it. SKSE and ENB files will still
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a lot!!
-- Phoenix and her team - for creating this excellent guide and allowing me to create this fork.
 - Halgari and everyone in the WJ Team - Wabbajack is incredible, and so are you!
 
 ## Contact
