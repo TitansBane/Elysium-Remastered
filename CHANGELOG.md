@@ -291,3 +291,27 @@
 - Removed [DRELDYN's Original Main Menu Overhaul (Now for SSE)](https://www.nexusmods.com/skyrimspecialedition/mods/6992)
 - Removed [Mrf's Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/53626)
 - Removed [Rapid Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/26532)
+
+## Elysium Remastered v1.3.1
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Added [FYX - 3D Stockades - Walls and Gate](https://www.nexusmods.com/skyrimspecialedition/mods/66037)
+- Added [JS Bloodstone Chalice SE](https://www.nexusmods.com/skyrimspecialedition/mods/66038)
+- Added [Particle Lights for ENB - Falmer Things](https://www.nexusmods.com/skyrimspecialedition/mods/65984)
+- Added [Unique Barbas Retexture - Fluffworks and ENB Light Addon](https://www.nexusmods.com/skyrimspecialedition/mods/65983)
+- Updated [Afterlife - Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/55051)
+- Updated [Alchemy Ingredients ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/65509)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
+- Updated [Misc Effects ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/65070)
+- Updated [Particle Patch for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/65720)
+- Updated [Rob's Bug Fixes - COTN Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/65456)
+- Updated [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235)
+- Updated [Spiders of Solstheim - ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/64818)
+- Updated [TROLL](https://www.nexusmods.com/skyrimspecialedition/mods/4682)
+- Updated [Vigilant - NPC Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/22146)
+- Updated [Water Effects Brightness and Reflection Fix - Realistic Water Two Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64736)
+- Removed [BLOODSTONE CHALICE REBORN](https://www.nexusmods.com/skyrim/mods/63551)
