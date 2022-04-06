@@ -294,7 +294,7 @@
 
 ## Elysium Remastered v1.3.1
 
-### Released at: `Unreleased`
+### Released at: `4/6/2022`
 
 ### Info:
 
