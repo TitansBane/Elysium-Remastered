@@ -310,6 +310,7 @@
 - Updated [Afterlife - Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/55051)
 - Updated [Alchemy Ingredients ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/65509)
 - Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [Dynamic Animation Casting](https://www.nexusmods.com/skyrimspecialedition/mods/65512)
 - Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
 - Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
