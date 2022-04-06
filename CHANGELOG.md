@@ -330,3 +330,4 @@
 - Improve the green tree mesh, ivy texture, and a few flower textures from Cathedral - 3D Pine Grass.
 - Patch all modded quivers for compatibility with ElSopa - Quivers Redone.
 - Relocate the TotTB mountain pass entrance outside Frostroot Cave.
+- Replace a thicket from Beyond Bruma with a more pleasing model.
