@@ -304,6 +304,7 @@
 - Added [Unique Barbas Retexture - Fluffworks and ENB Light Addon](https://www.nexusmods.com/skyrimspecialedition/mods/65983)
 - Updated [Afterlife - Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/55051)
 - Updated [Alchemy Ingredients ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/65509)
+- Updated [Dynamic Animation Casting](https://www.nexusmods.com/skyrimspecialedition/mods/65512)
 - Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
 - Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
 - Updated [Misc Effects ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/65070)
@@ -315,3 +316,10 @@
 - Updated [Vigilant - NPC Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/22146)
 - Updated [Water Effects Brightness and Reflection Fix - Realistic Water Two Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64736)
 - Removed [BLOODSTONE CHALICE REBORN](https://www.nexusmods.com/skyrim/mods/63551)
+
+### Tweaks and Fixes:
+
+- Adjust pine forest grass texture and meshes to blend better with the clovers.
+- Fixed Orc Strongholds stockades textures path.
+- Improve the green tree mesh, ivy texture, and a few flower textures from Cathedral - 3D Pine Grass.
+- Relocate the TotTB mountain pass entrance outside Frostroot Cave.
