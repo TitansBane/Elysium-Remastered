@@ -296,14 +296,20 @@
 
 ### Released at: `Unreleased`
 
+### Info:
+
+- No planned update for the Catherdal version at this moment
+
 ### Download Changes:
 
+- Added [ElSopa - Quivers Redone SE](https://www.nexusmods.com/skyrimspecialedition/mods/65921)
 - Added [FYX - 3D Stockades - Walls and Gate](https://www.nexusmods.com/skyrimspecialedition/mods/66037)
 - Added [JS Bloodstone Chalice SE](https://www.nexusmods.com/skyrimspecialedition/mods/66038)
 - Added [Particle Lights for ENB - Falmer Things](https://www.nexusmods.com/skyrimspecialedition/mods/65984)
 - Added [Unique Barbas Retexture - Fluffworks and ENB Light Addon](https://www.nexusmods.com/skyrimspecialedition/mods/65983)
 - Updated [Afterlife - Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/55051)
 - Updated [Alchemy Ingredients ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/65509)
+- Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845)
 - Updated [Dynamic Animation Casting](https://www.nexusmods.com/skyrimspecialedition/mods/65512)
 - Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
 - Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
@@ -322,4 +328,5 @@
 - Adjust pine forest grass texture and meshes to blend better with the clovers.
 - Fixed Orc Strongholds stockades textures path.
 - Improve the green tree mesh, ivy texture, and a few flower textures from Cathedral - 3D Pine Grass.
+- Patch all modded quivers for compatibility with ElSopa - Quivers Redone.
 - Relocate the TotTB mountain pass entrance outside Frostroot Cave.
