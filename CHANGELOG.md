@@ -332,3 +332,20 @@
 - Patch all modded quivers for compatibility with ElSopa - Quivers Redone.
 - Relocate the TotTB mountain pass entrance outside Frostroot Cave.
 - Replace a thicket from Beyond Bruma with a more pleasing model.
+
+## Elysium Remastered v1.4.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+- Added [ENB Complex Grass - Patch Compendium for various grass mods](https://www.nexusmods.com/skyrimspecialedition/mods/67304)
+- Updated [Forgotten Retex Project](https://www.nexusmods.com/skyrimspecialedition/mods/7849)
+- Removed [Burned Book Retexture 4k - 2k](https://www.nexusmods.com/skyrimspecialedition/mods/37573)
+- Removed [Honningbrew Decanter Redone 4K - 2K - 1K](https://www.nexusmods.com/skyrimspecialedition/mods/67212)
+- Removed [Pearls - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/53051)
+- Removed [Rally's Battlemap Flags](https://www.nexusmods.com/skyrimspecialedition/mods/64743)
+- Removed [Remiros' Dragonborn Alcohol HD](https://www.nexusmods.com/skyrimspecialedition/mods/41972)
