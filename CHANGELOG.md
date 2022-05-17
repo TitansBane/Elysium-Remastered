@@ -348,6 +348,7 @@
 - Added [Allow Dialogue Progress Bugfix](https://www.nexusmods.com/skyrimspecialedition/mods/67433)
 - Added [Alternate Start Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/66541)
 - Added [Cathedral - 3D Thistle](https://www.nexusmods.com/skyrimspecialedition/mods/67619)
+- Added [CLOUDS](https://www.nexusmods.com/skyrimspecialedition/mods/67436)
 - Added [Combat Music Fix SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/67015)
 - Added [Cork Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/41903)
 - Added [CritterSpawn Congestion Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67276)
