@@ -531,4 +531,5 @@
 
 ### Tweaks and Fixes:
 
+- Fixed both the Ring of Phynaster and Warlock's Ring enchantments.
 - Fixed random CTD issues with Immersive Patrols.
