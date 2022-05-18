@@ -342,6 +342,7 @@
 - This update is not save game compatible
 
 ### Download Changes:
+
 - Added [3D Solitude Market Trellis Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/67818)
 - Added [3D Whiterun Trellis Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/67700)
 - Added [Actually Useful Butter Churns - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/67776)
@@ -513,3 +514,21 @@
 - Removed [Rally's Battlemap Flags](https://www.nexusmods.com/skyrimspecialedition/mods/64743)
 - Removed [Remiros' Dragonborn Alcohol HD](https://www.nexusmods.com/skyrimspecialedition/mods/41972)
 - Removed [Soul Cairn HD](https://www.nexusmods.com/skyrimspecialedition/mods/15481)
+
+## Elysium Remastered v1.4.1
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Added [Immersive Rejections](https://www.nexusmods.com/skyrimspecialedition/mods/67930)
+- Added [JS Common Cages SE](https://www.nexusmods.com/skyrimspecialedition/mods/68236)
+- Added [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489)
+- Updated [Cities of the North - Morthal Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/34228)
+- Updated [FYX - 3D Solitude SighPost](https://www.nexusmods.com/skyrimspecialedition/mods/68048)
+- Updated [NPCs Wear Amulets of Mara PLUS](https://www.nexusmods.com/skyrimspecialedition/mods/66125)
+- Updated [Soaking Wet - Character Wetness Effect](https://www.nexusmods.com/skyrimspecialedition/mods/68025)
+
+### Tweaks and Fixes:
+
+- Fixed random CTD issues with Immersive Patrols.
