@@ -534,3 +534,41 @@
 - Fixed both the Ring of Phynaster and Warlock's Ring enchantments.
 - Fixed random CTD issues with Immersive Patrols.
 - Improved Peryite Shrine location.
+
+## Elysium Remastered v1.5.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Blank Werewolf Subsurface Textures](https://www.nexusmods.com/skyrimspecialedition/mods/68276)
+- Added [Cathedral - 3D Lavender](https://www.nexusmods.com/skyrimspecialedition/mods/68310)
+- Added [Cathedral - 3D Tundra Cotton](https://www.nexusmods.com/skyrimspecialedition/mods/68068)
+- Added [Creature Collision Fix](https://www.nexusmods.com/skyrimspecialedition/mods/68402)
+- Added [Daedric Shrines - Vaermina](https://www.nexusmods.com/skyrimspecialedition/mods/68362)
+- Added [Fluffworks compatibility patches for Diverse Werewolves Collection or Moonlight Tales SE](https://www.nexusmods.com/skyrimspecialedition/mods/68246)
+- Added [Fortified Whiterun - Immersive Clutter Patch](https://www.nexusmods.com/skyrimspecialedition/mods/68386)
+- Added [Jk's Interiors - Downstairs Room Rentals](https://www.nexusmods.com/skyrimspecialedition/mods/68232)
+- Added [JK's Sinderion's Field Laboratory](https://www.nexusmods.com/skyrimspecialedition/mods/68154)
+- Added [Less Shiny Bloody Bones - Skeleton Replacer HD](https://www.nexusmods.com/skyrimspecialedition/mods/68097)
+- Added [Nocturnal Moths](https://www.nexusmods.com/skyrimspecialedition/mods/68288)
+- Added [SkyUI 5.2 SE Plugin with Master Added](https://www.nexusmods.com/skyrimspecialedition/mods/67166)
+- Updated [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875)
+- Updated [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
+- Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
+- Updated [Fishing - Voiced Narrative](https://www.nexusmods.com/skyrimspecialedition/mods/67053)
+- Updated [Janquel's Arguably Needed Quixotically Unifying ESP Library](https://www.nexusmods.com/skyrimspecialedition/mods/57365)
+- Updated [JK's Guild HQ Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/61416)
+- Updated [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)
+- Updated [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
+- Updated [Saints and Seducers - Voiced Narrative (Creation Club)](https://www.nexusmods.com/skyrimspecialedition/mods/67117)
+- Updated [Solitude Objects SMIMed - festival ropes](https://www.nexusmods.com/skyrimspecialedition/mods/68115)
+- Updated [The Great Village of Mixwater Mill Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/37414)
+- Removed [Jumping Attack](https://www.nexusmods.com/skyrimspecialedition/mods/68043)
