@@ -572,3 +572,7 @@
 - Updated [Solitude Objects SMIMed - festival ropes](https://www.nexusmods.com/skyrimspecialedition/mods/68115)
 - Updated [The Great Village of Mixwater Mill Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/37414)
 - Removed [Jumping Attack](https://www.nexusmods.com/skyrimspecialedition/mods/68043)
+
+### Tweaks and Fixes:
+
+- Tweak the ENB to be less dark.
