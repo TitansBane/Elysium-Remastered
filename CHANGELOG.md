@@ -568,6 +568,7 @@
 - Updated [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 - Updated [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)
 - Updated [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
+- Updated [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641)
 - Updated [Saints and Seducers - Voiced Narrative (Creation Club)](https://www.nexusmods.com/skyrimspecialedition/mods/67117)
 - Updated [Solitude Objects SMIMed - festival ropes](https://www.nexusmods.com/skyrimspecialedition/mods/68115)
 - Updated [The Great Village of Mixwater Mill Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/37414)
