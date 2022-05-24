@@ -12,7 +12,9 @@
       "Unofficial",
       "Creation Club",
       "LotD",
-      "EnaiRim"
+      "EnaiRim",
+      "Visuals",
+      "Survival"
     ],
     "nsfw": false,
     "image_contains_title": false,
@@ -21,18 +23,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/image/Elysium_Remastered_Banner.webp",
       "readme": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Elysium%20Remastered.wabbajack_e99917b6-fc4a-42e5-84be-d0f00824ff6c",
+      "download": "https://authored-files.wabbajack.org/Elysium%20Remastered.wabbajack_b9667f36-b871-4829-b549-ee92270dc2d5",
       "machineURL": "elysium",
       "discordURL": "https://discord.gg/FAfPb9T"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "EDfg7aE49kA=",
-      "Size": 1416809392,
-      "NumberOfArchives": 2058,
-      "SizeOfArchives": 171978647009,
-      "NumberOfInstalledFiles": 257166,
-      "SizeOfInstalledFiles": 272124026859
+      "Hash": "GaQzCyObCCA=",
+      "Size": 1416897653,
+      "NumberOfArchives": 2060,
+      "SizeOfArchives": 172023083823,
+      "NumberOfInstalledFiles": 257192,
+      "SizeOfInstalledFiles": 272194944281
     },
     "version": "1.5.0"
   }
