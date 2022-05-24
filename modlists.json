@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Elysium Remastered",
+    "description": "Elysium Remastered is a complete rebuild of the original Elysium modlist. Like the original, it focuses primarily on visuals and is fully featured with hundreds of new additions and full Creation Club support—extending the base setup with Enai Siaion's full suite of gameplay overhauls and various new quests and encounters. (6GB+ of VRAM Required.)",
+    "author": "TitansBane",
+    "maintainers": [
+      "github/TitansBane"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Unofficial",
+      "Creation Club",
+      "LotD",
+      "EnaiRim"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/image/Elysium_Remastered_Banner.webp",
+      "readme": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Elysium%20Remastered.wabbajack_e99917b6-fc4a-42e5-84be-d0f00824ff6c",
+      "machineURL": "elysium",
+      "discordURL": "https://discord.gg/FAfPb9T"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "EDfg7aE49kA=",
+      "Size": 1416809392,
+      "NumberOfArchives": 2058,
+      "SizeOfArchives": 171978647009,
+      "NumberOfInstalledFiles": 257166,
+      "SizeOfInstalledFiles": 272124026859
+    },
+    "version": "1.5.0"
+  }
+]
