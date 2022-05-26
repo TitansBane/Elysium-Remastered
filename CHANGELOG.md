@@ -577,3 +577,45 @@
 ### Tweaks and Fixes:
 
 - Tweak the ENB to be less dark.
+
+## Elysium Remastered v1.6.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Better Wooden Spikes Texture](https://www.nexusmods.com/skyrimspecialedition/mods/68562)
+- Added [Creation Club Arrows - ENB Light Addon](https://www.nexusmods.com/skyrimspecialedition/mods/68571)
+- Added [FYX - 3D Whiterun Guard Towers](https://www.nexusmods.com/skyrimspecialedition/mods/68572)
+- Added [Imperial Fort Battlements (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/66831)
+- Added [JS Dwemer Puzzle Cube SE](https://www.nexusmods.com/skyrimspecialedition/mods/68570)
+- Added [Particle Lights for ENB - Ebonmere](https://www.nexusmods.com/skyrimspecialedition/mods/68580)
+- Added [ToosTruus Choice for R.A.S.S.](https://www.nexusmods.com/skyrimspecialedition/mods/59740)
+- Added [Unique Animations Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/68177)
+- Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845)
+- Updated [Cities of the North - Dawnstar Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30885)
+- Updated [Creature Collision Fix](https://www.nexusmods.com/skyrimspecialedition/mods/68402)
+- Updated [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653)
+- Updated [Ghosts of the Tribunal - Voiced Narrative (Creation Club)](https://www.nexusmods.com/skyrimspecialedition/mods/67374)
+- Updated [Janquel's Arguably Needed Quixotically Unifying ESP Library](https://www.nexusmods.com/skyrimspecialedition/mods/57365)
+- Updated [JK's Jorrvaskr](https://www.nexusmods.com/skyrimspecialedition/mods/60738)
+- Updated [JK's Radiant Raiment](https://www.nexusmods.com/skyrimspecialedition/mods/44858)
+- Updated [JK's Riverwood Trader](https://www.nexusmods.com/skyrimspecialedition/mods/55959)
+- Updated [JK's Sinderion's Field Laboratory](https://www.nexusmods.com/skyrimspecialedition/mods/68154)
+- Updated [JK's The Bee and Barb](https://www.nexusmods.com/skyrimspecialedition/mods/49516)
+- Updated [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
+- Updated [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641)
+- Updated [Nilheim Wood Pass](https://www.nexusmods.com/skyrimspecialedition/mods/66320)
+- Updated [Nocturnal Moths](https://www.nexusmods.com/skyrimspecialedition/mods/68288)
+- Updated [Soaking Wet - Character Wetness Effect](https://www.nexusmods.com/skyrimspecialedition/mods/68025)
+- Updated [Static Mesh Improvement Mod Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/55543)
+- Updated [XP32 Maximum Skeleton Special Extended - Legacy Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56146)
+
+### Tweaks and Fixes:
+
+- Disabled a USSEP-added bed roll blocking a cellar entrance for a CC location.
+- Fixed an issue where AllGUD can no longer detect right-handed swords being favorited/equipped.
