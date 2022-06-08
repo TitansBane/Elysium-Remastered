@@ -623,3 +623,38 @@
 
 - Disabled a USSEP-added bed roll blocking a cellar entrance for a CC location.
 - Fixed an issue where AllGUD can no longer detect right-handed swords being favorited/equipped.
+
+## Elysium Remastered v1.7.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [4K SMIM Furniture Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/32552)
+- Added [Charcoal Stick](https://www.nexusmods.com/skyrimspecialedition/mods/69038)
+- Added [RUSTIC FURNITURE - SPECIAL EDITION](https://www.nexusmods.com/skyrimspecialedition/mods/17228)
+- Added [Skyrim 3D Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/23552)
+- Added [Solitude Objects SMIMed - Castle Dour Spire](https://www.nexusmods.com/skyrimspecialedition/mods/68939)
+- Added [Solitude Objects SMIMed - Solitude well](https://www.nexusmods.com/skyrimspecialedition/mods/68896)
+- Added [Visage of Mzund - My version SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/69047)
+- Updated [3D Whiterun Trellis Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/67700)
+- Updated [A Matter Of Time - Legacy Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/55365)
+- Updated [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198)
+- Updated [Caught Red Handed - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/65708)
+- Updated [Cities of the North - Dawnstar Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30885)
+- Updated [Delphine's Map Reveals Dragon Mounds](https://www.nexusmods.com/skyrimspecialedition/mods/26301)
+- Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
+- Updated [Fluffworks Patches](https://www.nexusmods.com/skyrimspecialedition/mods/64445)
+- Updated [FYX - 3D Whiterun Scaffold](https://www.nexusmods.com/skyrimspecialedition/mods/64641)
+- Updated [FYX - Smooth Wells](https://www.nexusmods.com/skyrimspecialedition/mods/66715)
+- Updated [JK's Arcadia's Cauldron](https://www.nexusmods.com/skyrimspecialedition/mods/33565)
+- Updated [lilebonymace's patches xEdit scripts and stuff](https://www.nexusmods.com/skyrimspecialedition/mods/36042)
+- Updated [More Lights for ENB - Blood Splatter and Inventory Centering Fix](https://www.nexusmods.com/skyrimspecialedition/mods/55582)
+- Updated [Quick Light SE Alternate Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/59416)
+- Updated [Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/62861)
+- Updated [Static Mesh Improvement Mod Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/55543)
+- Updated [Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061)
