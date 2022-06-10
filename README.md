@@ -96,7 +96,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest amount of threads and fastest speed, it is advised to place the working folder on an SSD.
 
 1. Open Wabbajack.
-2. Click Browse Modlists and download Elysium Remastered from the Modlist Gallery. Wait until you are forwarded to the next window.
+2. Click `browse modlists` (don't forget to tick show `unofficial lists`), and download Elysium Remastered from the Modlist Gallery. Wait until you are forwarded to the next window.
 3. Adjust the download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\Elysium Remastered. The Download Path will update automatically. You can move it elsewhere if you want.
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
