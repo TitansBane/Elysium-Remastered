@@ -691,3 +691,30 @@
 - Updated [Static Mesh Improvement Mod Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/55543)
 - Updated [Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061)
 - Updated [Wyrmstooth - Creation Club Ingredient Patches](https://www.nexusmods.com/skyrimspecialedition/mods/59459)
+
+## Elysium Remastered v1.7.1
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Added [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756)
+- Added [Cathedral Landscapes Complex Grass for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/69578)
+- Added [Daedric Shrines - Molag Bal](https://www.nexusmods.com/skyrimspecialedition/mods/69667)
+- Added [Draw 2 - Dual Weapon Equip-Unequip Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45579)
+- Added [Flute Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/69609)
+- Added [Odin - Misc Audio Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/47046)
+- Added [Optimized USSEP Valdr Quest](https://www.nexusmods.com/skyrimspecialedition/mods/69346)
+- Added [SSS-CT - Slaughterfish Stay Submerged - Collision Tweak](https://www.nexusmods.com/skyrimspecialedition/mods/69570)
+- Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845)
+- Updated [Fluffworks Patches](https://www.nexusmods.com/skyrimspecialedition/mods/64445)
+- Updated [JK's Guild HQ Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/61416)
+- Updated [Legacy of the Dragonborn - The Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529)
+- Updated [Rob's Bug Fixes - COTN Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/65456)
+- Updated [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357)
+- Updated [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975)
+- Removed [Extra Drawing Animations](https://www.nexusmods.com/skyrimspecialedition/mods/37804)
+
+### Tweaks and Fixes:
+
+- Fixed a dozen reported bugs.
