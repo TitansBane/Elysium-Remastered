@@ -725,3 +725,38 @@
 ### Tweaks and Fixes:
 
 - Fixed a dozen reported bugs.
+
+## Elysium Remastered v1.8.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Assorted Bruma Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/69919)
+- Added [Cathedral - 3D Snow Berries](https://www.nexusmods.com/skyrimspecialedition/mods/69415)
+- Added [Cathedral Snowberries - Inventory - Wreath - Hearthfires Planter](https://www.nexusmods.com/skyrimspecialedition/mods/69933)
+- Added [Creation Club Farming - Tweaks Enhancements and Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/69029)
+- Added [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990)
+- Added [Ethereal Immunity](https://www.nexusmods.com/skyrimspecialedition/mods/69744)
+- Added [Harvest Your Blood for Septimus](https://www.nexusmods.com/skyrimspecialedition/mods/69861)
+- Added [LOD Mesh Fixes for DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/69851)
+- Added [Matching LOD Textures for Rodryk's Dragon Bridge Retexture by AgentW](https://www.nexusmods.com/skyrimspecialedition/mods/69990)
+- Added [Moveable Chain](https://www.nexusmods.com/skyrimspecialedition/mods/69764)
+- Added [Nordic Carved Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/69934)
+- Added [Zim's Thane Artifacts - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/69915)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Deadly Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/23723)
+- Updated [FYX - 3D Solitude SighPost](https://www.nexusmods.com/skyrimspecialedition/mods/68048)
+- Updated [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961)
+- Updated [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907)
+- Updated [JS Essence Extractor SE](https://www.nexusmods.com/skyrimspecialedition/mods/66578)
+- Updated [Pirate's Life for Me - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35163)
+- Updated [Seasonal Wildlife Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/63700)
+- Updated [True Hunter - fewer animals per square meter](https://www.nexusmods.com/skyrimspecialedition/mods/25628)
+- Updated [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975)
+- Updated [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266)
+- Removed [Sufficiently Optimized Snowberries 3D](https://www.nexusmods.com/skyrimspecialedition/mods/42033)
