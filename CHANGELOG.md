@@ -754,6 +754,7 @@
 - Updated [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961)
 - Updated [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907)
 - Updated [JS Essence Extractor SE](https://www.nexusmods.com/skyrimspecialedition/mods/66578)
+- Updated [OBIS SE - Organized Bandits In Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4145)
 - Updated [Pirate's Life for Me - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35163)
 - Updated [Seasonal Wildlife Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/63700)
 - Updated [True Hunter - fewer animals per square meter](https://www.nexusmods.com/skyrimspecialedition/mods/25628)
