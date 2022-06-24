@@ -23,18 +23,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/image/Elysium_Remastered_Banner.webp",
       "readme": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Elysium%20Remastered.wabbajack_38d553ab-033b-4039-9be4-2d6146f83ed1",
+      "download": "https://authored-files.wabbajack.org/Elysium%20Remastered.wabbajack_1c26ec92-3f0b-4989-b4a8-69d9c73d6d0a",
       "machineURL": "elysium",
       "discordURL": "https://discord.gg/FAfPb9T"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "T9/1VrBSpGY=",
-      "Size": 1509173002,
-      "NumberOfArchives": 2129,
-      "SizeOfArchives": 173497290656,
-      "NumberOfInstalledFiles": 259066,
-      "SizeOfInstalledFiles": 276112062125
+      "Hash": "UdIAZ67KVgc=",
+      "Size": 1509217026,
+      "NumberOfArchives": 2130,
+      "SizeOfArchives": 173497246638,
+      "NumberOfInstalledFiles": 259074,
+      "SizeOfInstalledFiles": 276112065091
     },
     "version": "1.8.0"
   }
