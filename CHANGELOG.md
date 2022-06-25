@@ -768,12 +768,14 @@
 
 ### Download Changes:
 
+- Added [JS Dwemer Control Cube SE](https://www.nexusmods.com/skyrimspecialedition/mods/70257)
 - Added [NORDIC UI - QuickLootRE with TCC Icons](https://www.nexusmods.com/skyrimspecialedition/mods/70175)
 - Added [Prince and The Pauper Refine (Fixes - Improvements - New Child Outfits - No NPC Edits)](https://www.nexusmods.com/skyrimspecialedition/mods/70037)
 - Added [QuickLoot RE with icons](https://www.nexusmods.com/skyrimspecialedition/mods/69980)
 - Added [Rob's Bug Fixes - TGC Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/70185)
 - Added [Tools not weapons DAR animations](https://www.nexusmods.com/skyrimspecialedition/mods/70117)
 - Added [Unofficial eFPS patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
+- Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845)
 - Updated [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961)
 - Updated [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907)
 - Updated [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
