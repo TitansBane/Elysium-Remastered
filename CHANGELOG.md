@@ -779,6 +779,7 @@
 - Updated [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
 - Updated [R.A.S.S. Rain Ash And Snow Shaders - Wet Frost Cold Dust - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56710)
 - Updated [Trade and Barter - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/57926)
+- Removed [Prince and the Pauper - Hearthfire Multiple Adoptions Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35753)
 - Removed [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
 - Removed [QuickLootRE Texture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/39045)
 
