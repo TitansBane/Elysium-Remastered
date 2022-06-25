@@ -761,3 +761,27 @@
 - Updated [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975)
 - Updated [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266)
 - Removed [Sufficiently Optimized Snowberries 3D](https://www.nexusmods.com/skyrimspecialedition/mods/42033)
+
+## Elysium Remastered v1.8.1
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Added [NORDIC UI - QuickLootRE with TCC Icons](https://www.nexusmods.com/skyrimspecialedition/mods/70175)
+- Added [Prince and The Pauper Refine (Fixes - Improvements - New Child Outfits - No NPC Edits)](https://www.nexusmods.com/skyrimspecialedition/mods/70037)
+- Added [QuickLoot RE with icons](https://www.nexusmods.com/skyrimspecialedition/mods/69980)
+- Added [Rob's Bug Fixes - TGC Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/70185)
+- Added [Tools not weapons DAR animations](https://www.nexusmods.com/skyrimspecialedition/mods/70117)
+- Added [Unofficial eFPS patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
+- Updated [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961)
+- Updated [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907)
+- Updated [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
+- Updated [R.A.S.S. Rain Ash And Snow Shaders - Wet Frost Cold Dust - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56710)
+- Updated [Trade and Barter - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/57926)
+- Removed [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
+- Removed [QuickLootRE Texture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/39045)
+
+### Tweaks and Fixes:
+
+- Fixed an issue with a few tree LODs with wrong texture paths.
