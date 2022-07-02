@@ -247,6 +247,11 @@ All the required MCM options have been automated for you. Enjoy the game or twea
 
 ## Other Post Installation FAQ
 
+### Performance Help
+
+Elysium is a list designed for higher end PCs. But with some tweaks the list is certainly still playable on lower specs. Fortunately members of our community have put together [this guide](https://docs.google.com/document/d/12QomWYtzGeq62f6MZ-gMKf62Go1AhRFo/edit). 
+These tweaks DO NOT break rule 11 unless otherwise mentioned, so please feel free to ask questions in the community discord.
+
 ### Controlmap
 
 These are currently the custom controls added by Mods. Feel free to customize them within the Mod's MCM menus
