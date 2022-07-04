@@ -30,6 +30,7 @@
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Other Post Installation FAQ](#other-post-installation-faq)
+    - [Performance Help](#performance-help)
     - [Controlmap](#controlmap)
     - [High Poly Head](#high-poly-head)
     - [Gamepad Support](#gamepad-support)
