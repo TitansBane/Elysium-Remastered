@@ -330,14 +330,6 @@ Download the following file from the [Ultra Widescreen Patch for Forget Spell (T
 
 This is a patch. Place it below Forget Spell in the mod order.
 
-### Tweaking the Game Settings
-
-I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
-
-- `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
-- `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off. Do not have the game AO and an ENB AO turned on at the same time.
-- `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
-
 ### Zoomed in Display
 
 This can be caused by Window's Display Scaling feature. This usually is set to above 100% when using very large (32 inch++) sized monitors and TVs. There are two solutions to this
