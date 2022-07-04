@@ -35,7 +35,6 @@
     - [High Poly Head](#high-poly-head)
     - [Gamepad Support](#gamepad-support)
     - [Ultrawide Options](#ultrawide-options)
-    - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
     - [Removing the Modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
