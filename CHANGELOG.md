@@ -788,3 +788,78 @@
 ### Tweaks and Fixes:
 
 - Fixed an issue with a few tree LODs with wrong texture paths.
+
+## Elysium Remastered v1.9.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Animation Motion Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/50258)
+- Added [College of Winterhold - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666)
+- Added [Creation Club Open Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/70992)
+- Added [Daedric Shrines - Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/70696)
+- Added [EVG Animated Traversal](https://www.nexusmods.com/skyrimspecialedition/mods/63232)
+- Added [EVG Animated Traversal - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/70635)
+- Added [JS Immersive Tripwires SE](https://www.nexusmods.com/skyrimspecialedition/mods/70979)
+- Added [JS Rumpled Rugs SE](https://www.nexusmods.com/skyrimspecialedition/mods/70534)
+- Added [Legacy of the Dragonborn - Greener Jade Skull for Unique Skulls HD](https://www.nexusmods.com/skyrimspecialedition/mods/60130)
+- Added [Nature of the Wild Lands - forest and trees improvement mod](https://www.nexusmods.com/skyrimspecialedition/mods/63604)
+- Added [QuickLoot EE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/70672)
+- Added [Recoil On Objects](https://www.nexusmods.com/skyrimspecialedition/mods/70719)
+- Added [Riften Architectural Details](https://www.nexusmods.com/skyrimspecialedition/mods/70854)
+- Added [Rob's Bug Fixes - TGC Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/70694)
+- Added [Rob's Bug Fixes - TGC Old Hroldan](https://www.nexusmods.com/skyrimspecialedition/mods/70764)
+- Added [Silver Objects SMIMed - Silver - Sovngarde - Thieves Guild - Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/70787)
+- Added [Stamina of Steeds](https://www.nexusmods.com/skyrimspecialedition/mods/58742)
+- Added [VIGILANT - My patches by Xtudo SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/70958)
+- Updated [aMidianBorn Content Addon](https://www.nexusmods.com/skyrimspecialedition/mods/35390)
+- Updated [Armor and Clothing Extension](https://www.nexusmods.com/skyrimspecialedition/mods/19002)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Beast Skeletons Revised (Bitter Edition)](https://www.nexusmods.com/skyrimspecialedition/mods/27266)
+- Updated [Better Third Person Selection - BTPS](https://www.nexusmods.com/skyrimspecialedition/mods/64339)
+- Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
+- Updated [Cities of the North - Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/56731)
+- Updated [Cities of the North - Falkreath Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/56734)
+- Updated [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123)
+- Updated [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608)
+- Updated [Complete Crafting Overhaul Remastered - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/58179)
+- Updated [Conditional tavern cheering (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/63029)
+- Updated [Creation Club Farming - Tweaks Enhancements and Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/69029)
+- Updated [Dirt and Blood - Dynamic Visual Effects](https://www.nexusmods.com/skyrimspecialedition/mods/38886)
+- Updated [Dirt and Blood - Dynamic Visual Effects - Legacy Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56550)
+- Updated [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990)
+- Updated [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
+- Updated [ENB Complex Grass - Patch Compendium for various grass mods](https://www.nexusmods.com/skyrimspecialedition/mods/67304)
+- Updated [Ethereal Immunity](https://www.nexusmods.com/skyrimspecialedition/mods/69744)
+- Updated [Flickering Meshes Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53957)
+- Updated [GG's Thieves Guild Headquarters](https://www.nexusmods.com/skyrimspecialedition/mods/64018)
+- Updated [GG's Thieves Guild HQ Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/63967)
+- Updated [Immersive folded hands (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/62849)
+- Updated [JK's Blue Palace](https://www.nexusmods.com/skyrimspecialedition/mods/45324)
+- Updated [Legacy of The Dragonborn - SMIM Chests](https://www.nexusmods.com/skyrimspecialedition/mods/55720)
+- Updated [lilebonymace's patches xEdit scripts and stuff](https://www.nexusmods.com/skyrimspecialedition/mods/36042)
+- Updated [Lively Children Animations (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/67557)
+- Updated [Lux Via](https://www.nexusmods.com/skyrimspecialedition/mods/63588)
+- Updated [NPC Animation Remix (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/63471)
+- Updated [Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681)
+- Updated [Pirate's Life for Me - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35163)
+- Updated [QuickLoot EE](https://www.nexusmods.com/skyrimspecialedition/mods/69980)
+- Updated [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529)
+- Updated [Security Overhaul SKSE - Lock Variations](https://www.nexusmods.com/skyrimspecialedition/mods/58224)
+- Updated [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245)
+- Updated [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)
+- Updated [The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined](https://www.nexusmods.com/skyrimspecialedition/mods/58213)
+- Updated [Tools not weapons DAR animations](https://www.nexusmods.com/skyrimspecialedition/mods/70117)
+- Updated [Unofficial eFPS patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
+
+### Tweaks and Fixes:
+
+- Added DynDOLOD support to ETaC and Nocturnal shrine.
+- Created a EVGAT patch for Unique Border Gates.
+- Fixed several trees with an incorrect node preventing those files from being used by DynDOLOD. This resulted in missing LODs, which are now rectified.
+- Lots of xEdit fixes.
