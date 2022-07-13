@@ -873,6 +873,7 @@
 - Added [Bleak Falls Barrow - Animated Traversal](https://www.nexusmods.com/skyrimspecialedition/mods/70876)
 - Added [Creation Club - Gallows Hall - Daedric Shrines Vaermina](https://www.nexusmods.com/skyrimspecialedition/mods/71202)
 - Added [Vigilant Witch Hunter Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/71205)
+- Updated [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130)
 - Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [Chocolate Poise](https://www.nexusmods.com/skyrimspecialedition/mods/70478)
 - Updated [Creation Club Open Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/70992)
@@ -881,6 +882,7 @@
 - Updated [JK's Temple of the Divines](https://www.nexusmods.com/skyrimspecialedition/mods/57304)
 - Updated [JS Immersive Tripwires SE](https://www.nexusmods.com/skyrimspecialedition/mods/70979)
 - Updated [Unofficial eFPS patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
+- Updated [VIGILANT - My patches by Xtudo SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/70958)
 - Updated [Water Effects Brightness and Reflection Fix - Realistic Water Two Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64736)
 - Removed [Ashes - VIGILANT Witch Hunter Armor Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/28871)
 
