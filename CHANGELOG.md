@@ -873,8 +873,10 @@
 - Added [Bleak Falls Barrow - Animated Traversal](https://www.nexusmods.com/skyrimspecialedition/mods/70876)
 - Added [Creation Club - Gallows Hall - Daedric Shrines Vaermina](https://www.nexusmods.com/skyrimspecialedition/mods/71202)
 - Added [Vigilant Witch Hunter Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/71205)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [Chocolate Poise](https://www.nexusmods.com/skyrimspecialedition/mods/70478)
 - Updated [Creation Club Open Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/70992)
+- Updated [Dirt and Blood - Dynamic Visual Effects](https://www.nexusmods.com/skyrimspecialedition/mods/38886)
 - Updated [JK's Dragonsreach](https://www.nexusmods.com/skyrimspecialedition/mods/34000)
 - Updated [JK's Temple of the Divines](https://www.nexusmods.com/skyrimspecialedition/mods/57304)
 - Updated [JS Immersive Tripwires SE](https://www.nexusmods.com/skyrimspecialedition/mods/70979)
@@ -884,6 +886,7 @@
 
 ### Tweaks and Fixes:
 
+- Fixed a crash around Whiterun that came back to the list due to eFPS updating.
 - Fixed several floating crows due to tree changes from Nature of the Wild Lands.
 - Improved performance in Hjaalmarch hold by deleting around 500+ trees from Nature of the Wild Lands.
 - Patched some Fishing CC objects for USSEP and CFTO.
