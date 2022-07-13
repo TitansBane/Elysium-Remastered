@@ -863,3 +863,27 @@
 - Created a EVGAT patch for Unique Border Gates.
 - Fixed several trees with an incorrect node preventing those files from being used by DynDOLOD. This resulted in missing LODs, which are now rectified.
 - Lots of xEdit fixes.
+
+## Elysium Remastered v1.9.1
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Added [Bleak Falls Barrow - Animated Traversal](https://www.nexusmods.com/skyrimspecialedition/mods/70876)
+- Added [Creation Club - Gallows Hall - Daedric Shrines Vaermina](https://www.nexusmods.com/skyrimspecialedition/mods/71202)
+- Added [Vigilant Witch Hunter Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/71205)
+- Updated [Chocolate Poise](https://www.nexusmods.com/skyrimspecialedition/mods/70478)
+- Updated [Creation Club Open Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/70992)
+- Updated [JK's Dragonsreach](https://www.nexusmods.com/skyrimspecialedition/mods/34000)
+- Updated [JK's Temple of the Divines](https://www.nexusmods.com/skyrimspecialedition/mods/57304)
+- Updated [JS Immersive Tripwires SE](https://www.nexusmods.com/skyrimspecialedition/mods/70979)
+- Updated [Unofficial eFPS patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
+- Updated [Water Effects Brightness and Reflection Fix - Realistic Water Two Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64736)
+- Removed [Ashes - VIGILANT Witch Hunter Armor Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/28871)
+
+### Tweaks and Fixes:
+
+- Fixed several floating crows due to tree changes from Nature of the Wild Lands.
+- Improved performance in Hjaalmarch hold by deleting around 500+ trees from Nature of the Wild Lands.
+- Patched some Fishing CC objects for USSEP and CFTO.
