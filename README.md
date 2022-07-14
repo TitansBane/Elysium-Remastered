@@ -32,7 +32,6 @@
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Performance Help](#performance-help)
     - [Controlmap](#controlmap)
-    - [High Poly Head](#high-poly-head)
     - [Gamepad Support](#gamepad-support)
     - [Ultrawide Options](#ultrawide-options)
     - [Zoomed in Display](#zoomed-in-display)
@@ -262,10 +261,6 @@ These are currently the custom controls added by Mods. Feel free to customize th
 - OBody - Apply Bodyslide Preset : F10
 - The Ultimate Dodge Mod - Dodge : Shift **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
 - The Ultimate Dodge Mod - Change Dodging Style : G (This changes between side-stepping and rolling)
-
-### High Poly Head
-
-Use the Face Part slider in RaceMenu to switch to the high poly head.
 
 ### Gamepad Support
 
