@@ -892,3 +892,31 @@
 - Fixed several floating crows due to tree changes from Nature of the Wild Lands.
 - Improved performance in Hjaalmarch hold by deleting around 500+ trees from Nature of the Wild Lands.
 - Patched some Fishing CC objects for USSEP and CFTO.
+
+## Elysium Remastered v1.9.2
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Added [Actually flat flat snow drifts - fix hovering snow drift shadow with ENB](https://www.nexusmods.com/skyrimspecialedition/mods/71437)
+- Updated [Cities of the North - Dawnstar Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30885)
+- Updated [Creation Club Open Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/70992)
+- Updated [EVG Animated Traversal](https://www.nexusmods.com/skyrimspecialedition/mods/63232)
+- Updated [Hanaisse's Ingredients Bowl And ENB Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63530)
+- Updated [Janquel's Arguably Needed Quixotically Unifying ESP Library](https://www.nexusmods.com/skyrimspecialedition/mods/57365)
+- Updated [JS Immersive Tripwires SE](https://www.nexusmods.com/skyrimspecialedition/mods/70979)
+- Updated [Masculine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/186)
+- Updated [Moveable Chain](https://www.nexusmods.com/skyrimspecialedition/mods/69764)
+- Updated [Odin - Summons Redone](https://www.nexusmods.com/skyrimspecialedition/mods/46516)
+- Updated [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168)
+- Updated [Unofficial eFPS patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
+- Updated [VIGILANT - My patches by Xtudo SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/70958)
+- Updated [Vokrii Perks For NPCS](https://www.nexusmods.com/skyrimspecialedition/mods/47055)
+
+### Tweaks and Fixes:
+
+- Almost all EVG patches, including the merge, were remade with better consistency, improvements, and bug fixes.
+- Fixed an issue where the Daedric helmet, when worn, would be invisible to human races.
+- Tweak the ENB to adjust the color grade, so it isn't so bright and has a lot of contrast.
+- Zephyr will no longer get knocked down below and can be obtained.
