@@ -106,7 +106,15 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 **Could not download x**:
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
+
+**The Elysium.Wabbajack from the gallery:** Please try using the [Network Workaround](https://cdn.discordapp.com/attachments/623314477151944718/880228863945343046/Discord-VPN.png) in Wabbajacks settings first. Alternatively try using a VPN service, Proton VPN is available for free if needed. If BOTH these things do not work, feel free to ask for more help in the community discord linked below.
+
+**Anything with "Output" in the name:** These files are very large and are known to cause issues. Please try downloading them manually from the Nexus Page linked [here](https://www.nexusmods.com/skyrimspecialedition/mods/65080?tab=files). Download the missing files manually, drop them in the WJ downloads folder **WITHOUT EXTRACTING** and rerun Wabbajack.
+
+**Anything with "Mega" or "Google Drive" in the name:** All needed files should be pinned in the #ely-remastered-support channel available in the [community discord](https://discord.gg/sxBH2c2MqF). Alternatively the links are always at the bottom of your Wabbajack log if u prefer that method. Download the missing files manually, drop them in the WJ downloads folder **WITHOUT EXTRACTING** and rerun Wabbajack.
+
+**High Poly Head:** Mirror available [here](https://drive.google.com/drive/folders/1V_jcYzwTiKnSv8Dbv-7Z0hh9SWbkn6Bi) aswell as in the discord. Download the missing files manually, drop them in the WJ downloads folder **WITHOUT EXTRACTING** and rerun Wabbajack.
+
 
 **x is not a whitelisted download**:
 
