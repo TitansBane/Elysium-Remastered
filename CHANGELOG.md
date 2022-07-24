@@ -920,3 +920,51 @@
 - Fixed an issue where the Daedric helmet, when worn, would be invisible to human races.
 - Tweak the ENB to adjust the color grade, so it isn't so bright and has a lot of contrast.
 - Zephyr will no longer get knocked down below and can be obtained.
+
+## Elysium Remastered v2.0.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [High Poly Heads for Fishing and Saints and Seducers DLC](https://www.nexusmods.com/skyrimspecialedition/mods/71774)
+- Added [Improved Dwemer Glass - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52672)
+- Added [Nature of the Wildlands - Forest Debris Only](https://www.nexusmods.com/skyrimspecialedition/mods/71607)
+- Added [SG Female Eyebrows](https://www.nexusmods.com/skyrimspecialedition/mods/25890)
+- Added [SG Female Eyebrows for High Poly Head](https://www.nexusmods.com/skyrimspecialedition/mods/70905)
+- Added [Worldspace Transition Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/48889)
+- Added [Worldspace Transition Tweaks - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/49316)
+- Updated [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087)
+- Updated [Apocalypse Spells For NPCS](https://www.nexusmods.com/skyrimspecialedition/mods/58017)
+- Updated [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+- Updated [College of Winterhold - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666)
+- Updated [Creation Club Open Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/70992)
+- Updated [Feminine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/183)
+- Updated [FYX - 3D Dock Ramp](https://www.nexusmods.com/skyrimspecialedition/mods/64529)
+- Updated [Gallows Hall - Planters](https://www.nexusmods.com/skyrimspecialedition/mods/59800)
+- Updated [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188)
+- Updated [kryptopyr's Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/19518)
+- Updated [Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
+- Updated [Legacy of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+- Updated [lilebonymace's patches xEdit scripts and stuff](https://www.nexusmods.com/skyrimspecialedition/mods/36042)
+- Updated [Moveable Chain](https://www.nexusmods.com/skyrimspecialedition/mods/69764)
+- Updated [Myrwatch - Editable Home Cells (Cell Bug Workaround)](https://www.nexusmods.com/skyrimspecialedition/mods/64108)
+- Updated [Nature of the Wild Lands - forest and trees improvement mod](https://www.nexusmods.com/skyrimspecialedition/mods/63604)
+- Updated [ODIN spells for NPCS](https://www.nexusmods.com/skyrimspecialedition/mods/46877)
+- Updated [Prince and The Pauper Refine (Fixes - Improvements - New Child Outfits - No NPC Edits)](https://www.nexusmods.com/skyrimspecialedition/mods/70037)
+- Updated [Realistic Water Two SE](https://www.nexusmods.com/skyrimspecialedition/mods/2182)
+- Updated [Skyrim Anniversary - Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/58880)
+- Updated [SkyUI-Style Quick Loot RE and EE Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/51017)
+- Updated [Unofficial eFPS patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
+- Updated [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
+
+### Tweaks and Fixes:
+
+- Added DynDOLOD support to Tale of Tsatampra Xiros and WiZkiD Parallax Farmhouses.
+- Fixed lots of reported bugs and many other issues that I found.
+- Replace Yellowshrub02 with a better model from the Nature of the Wildlands mod.
+- Updated pine forests grass with a new grass type to enhance the overall look making it more overgrown in countless spots.
