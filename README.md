@@ -16,6 +16,7 @@
       - [Preparations](#preparations)
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
+        - [Could not download x](#could-not-download-x)
   - [Post-Installation](#post-installation)
     - [Stock Game](#stock-game)
     - [Creation Club](#creation-club)
@@ -104,8 +105,7 @@ The download and installation process can take a very long time, depending on yo
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off, so you lose no progress.
 
-**Could not download x**:
-
+##### Could not download x
 
 **The Elysium.Wabbajack from the gallery:** Please try using the [Network Workaround](https://cdn.discordapp.com/attachments/623314477151944718/880228863945343046/Discord-VPN.png) in Wabbajacks settings first. Alternatively try using a VPN service, Proton VPN is available for free if needed. If BOTH these things do not work, feel free to ask for more help in the community discord linked below.
 
@@ -115,12 +115,11 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 **High Poly Head:** Mirror available [here](https://drive.google.com/drive/folders/1V_jcYzwTiKnSv8Dbv-7Z0hh9SWbkn6Bi) aswell as in the discord. Download the missing files manually, drop them in the WJ downloads folder **WITHOUT EXTRACTING** and rerun Wabbajack.
 
-
-**x is not a whitelisted download**:
+**x is not a whitelisted download:**
 
 This can happen when I update the modlist. Check if a new update is available and wait if there is none.
 
-**Wabbajack could not find my game folder**:
+**Wabbajack could not find my game folder:**
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
@@ -145,6 +144,7 @@ Suppose you want a different ENB. You can choose from a wide variety of ENBs on 
 A few other ENB suggestions are:
 
 - [Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)
+- [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082)
 
 **Note:**
 Please check that vsync is set to disable in enblocal.ini otherwise you will either be stuck compiling shaders or a black screen, or the menu with no options.
@@ -267,7 +267,7 @@ These are currently the custom controls added by Mods. Feel free to customize th
 - Immersive HUD - Toggle HUD : X
 - Nether's Follower Framework - Horse Whistle : H
 - OBody - Apply Bodyslide Preset : F10
-- The Ultimate Dodge Mod - Dodge : Shift **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
+- The Ultimate Dodge Mod - Dodge : Shift  **Note: To change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
 - The Ultimate Dodge Mod - Change Dodging Style : G (This changes between side-stepping and rolling)
 
 ### Gamepad Support
