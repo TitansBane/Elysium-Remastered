@@ -1000,3 +1000,10 @@
 - Removed [(DMC) The Ultimate Dodge Mod Reanimated - TUDMR](https://www.nexusmods.com/skyrimspecialedition/mods/33049)
 - Removed [Chocolate Poise](https://www.nexusmods.com/skyrimspecialedition/mods/70478)
 - Removed [The Ultimate Dodge Mod - Script Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/54953)
+
+### Tweaks and Fixes:
+
+- Lots of xEdit fixes.
+- Patched the three permanent torches that lack ENB light support, and fix blocky flames on one of the meshes.
+- Reverted back to the old Improved Camera due to the newer version having too many issues still.
+- Tweak the ENB to adjust interior bloom and lens settings.
