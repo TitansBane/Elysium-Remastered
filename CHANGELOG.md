@@ -968,3 +968,35 @@
 - Fixed lots of reported bugs and many other issues that I found.
 - Replace Yellowshrub02 with a better model from the Nature of the Wildlands mod.
 - Updated pine forests grass with a new grass type to enhance the overall look making it more overgrown in countless spots.
+
+## Elysium Remastered v2.1.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Bandit Lines Expansion and OBIS SE Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73678)
+- Added [Cooking with Fire](https://www.nexusmods.com/skyrimspecialedition/mods/73607)
+- Added [No More Swimming In Air - Fixed Floating SwimIdle](https://www.nexusmods.com/skyrimspecialedition/mods/73421)
+- Added [NPCs React To Necromancy (And More)](https://www.nexusmods.com/skyrimspecialedition/mods/70428)
+- Added [POISE - Stagger Overhaul SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/72653)
+- Added [Realistic HD Mushrooms Remastered - Rock Texture Integration](https://www.nexusmods.com/skyrimspecialedition/mods/73693)
+- Added [Statue of Sithis](https://www.nexusmods.com/skyrimspecialedition/mods/73735)
+- Added [The Ultimate Dodge Mod Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/63000)
+- Added [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741)
+- Added [Valhalla Combat Execution Compatibility patches](https://www.nexusmods.com/skyrimspecialedition/mods/73677)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Interesting NPCs SE (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/29194)
+- Updated [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612)
+- Updated [SkyTEST - Mihail's chick replacer and better idle sound SE](https://www.nexusmods.com/skyrimspecialedition/mods/35634)
+- Updated [Vigilant CBBE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43676)
+- Updated [Water Effects Brightness and Reflection Fix - Realistic Water Two Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64736)
+- Updated [Worldspace Transition Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/48889)
+- Updated [XP32 Maximum Skeleton Special Extended - XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988)
+- Removed [(DMC) The Ultimate Dodge Mod Reanimated - TUDMR](https://www.nexusmods.com/skyrimspecialedition/mods/33049)
+- Removed [Chocolate Poise](https://www.nexusmods.com/skyrimspecialedition/mods/70478)
+- Removed [The Ultimate Dodge Mod - Script Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/54953)
