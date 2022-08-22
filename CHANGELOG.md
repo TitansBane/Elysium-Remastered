@@ -1013,4 +1013,4 @@
 - Lots of xEdit fixes.
 - Patched the three permanent torches that lack ENB light support, and fix blocky flames on one of the meshes.
 - Reverted back to the old Improved Camera due to the newer version having too many issues still.
-- Tweak the ENB to adjust interior bloom and lens settings.
+- Tweak the ENB to adjust interior bloom and lens settings and fix super bright snow during the day.
