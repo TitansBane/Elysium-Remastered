@@ -981,20 +981,26 @@
 
 - Added [Bandit Lines Expansion and OBIS SE Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73678)
 - Added [Cooking with Fire](https://www.nexusmods.com/skyrimspecialedition/mods/73607)
+- Added [Immersive Vampire Clutter - Base Object Swapper (BOS)](https://www.nexusmods.com/skyrimspecialedition/mods/73802)
 - Added [No More Swimming In Air - Fixed Floating SwimIdle](https://www.nexusmods.com/skyrimspecialedition/mods/73421)
 - Added [NPCs React To Necromancy (And More)](https://www.nexusmods.com/skyrimspecialedition/mods/70428)
 - Added [POISE - Stagger Overhaul SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/72653)
 - Added [Realistic HD Mushrooms Remastered - Rock Texture Integration](https://www.nexusmods.com/skyrimspecialedition/mods/73693)
 - Added [Statue of Sithis](https://www.nexusmods.com/skyrimspecialedition/mods/73735)
 - Added [The Ultimate Dodge Mod Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/63000)
+- Added [Thieves Guild Dialogue Fix - USSEP Compatible](https://www.nexusmods.com/skyrimspecialedition/mods/73807)
 - Added [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741)
 - Added [Valhalla Combat Execution Compatibility patches](https://www.nexusmods.com/skyrimspecialedition/mods/73677)
+- Added [White Phial - Tweaks and Enhancements](https://www.nexusmods.com/skyrimspecialedition/mods/73532)
 - Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466)
 - Updated [Interesting NPCs SE (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/29194)
+- Updated [Legacy of The Dragonborn - Museum Exterior Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/47321)
 - Updated [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612)
 - Updated [SkyTEST - Mihail's chick replacer and better idle sound SE](https://www.nexusmods.com/skyrimspecialedition/mods/35634)
 - Updated [Vigilant CBBE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43676)
 - Updated [Water Effects Brightness and Reflection Fix - Realistic Water Two Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64736)
+- Updated [Water in Wells - mesh-only animated wells](https://www.nexusmods.com/skyrimspecialedition/mods/57268)
 - Updated [Worldspace Transition Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/48889)
 - Updated [XP32 Maximum Skeleton Special Extended - XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988)
 - Removed [(DMC) The Ultimate Dodge Mod Reanimated - TUDMR](https://www.nexusmods.com/skyrimspecialedition/mods/33049)
@@ -1003,6 +1009,7 @@
 
 ### Tweaks and Fixes:
 
+- Fixed female Steel Spiked Gauntlets meshes misaligned with the left hand.
 - Lots of xEdit fixes.
 - Patched the three permanent torches that lack ENB light support, and fix blocky flames on one of the meshes.
 - Reverted back to the old Improved Camera due to the newer version having too many issues still.
