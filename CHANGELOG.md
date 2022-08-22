@@ -971,7 +971,7 @@
 
 ## Elysium Remastered v2.1.0
 
-### Released at: `Unreleased`
+### Released at: `8/22/2022`
 
 ### Info:
 
