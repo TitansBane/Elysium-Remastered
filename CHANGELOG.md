@@ -984,6 +984,7 @@
 - Added [Immersive Vampire Clutter - Base Object Swapper (BOS)](https://www.nexusmods.com/skyrimspecialedition/mods/73802)
 - Added [No More Swimming In Air - Fixed Floating SwimIdle](https://www.nexusmods.com/skyrimspecialedition/mods/73421)
 - Added [NPCs React To Necromancy (And More)](https://www.nexusmods.com/skyrimspecialedition/mods/70428)
+- Added [Oblivion Symphonic Variations for Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/70334)
 - Added [POISE - Stagger Overhaul SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/72653)
 - Added [Realistic HD Mushrooms Remastered - Rock Texture Integration](https://www.nexusmods.com/skyrimspecialedition/mods/73693)
 - Added [Statue of Sithis](https://www.nexusmods.com/skyrimspecialedition/mods/73735)
@@ -1023,17 +1024,23 @@
 
 ### Download Changes:
 
+- Added [Argonian Weight Slider Affected Tails Port for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/23366)
+- Added [Beyond Skyrim Bruma uses Creation Club Goblins (While keeping Falmer animations)](https://www.nexusmods.com/skyrimspecialedition/mods/50840)
 - Added [Chocolate Poise](https://www.nexusmods.com/skyrimspecialedition/mods/70478)
 - Added [dTry's Key Utils](https://www.nexusmods.com/skyrimspecialedition/mods/69944)
 - Added [Horses Follow Through Doors](https://www.nexusmods.com/skyrimspecialedition/mods/68338)
 - Added [Icy Mesh Remaster - Ice Glaciers and LOD](https://www.nexusmods.com/skyrimspecialedition/mods/73381)
 - Added [MBO Gamepad Patch](https://www.nexusmods.com/skyrimspecialedition/mods/70877)
+- Added [Oh Barnacles - Nordic Barnacle Harvest Fix](https://www.nexusmods.com/skyrimspecialedition/mods/73629)
 - Added [Skyrim Remastered - Glaciers and Ice - 4K textures](https://www.nexusmods.com/skyrimspecialedition/mods/71452)
 - Added [Snowy Boethiah](https://www.nexusmods.com/skyrimspecialedition/mods/59663)
 - Updated [Apocalypse Spells For NPCS](https://www.nexusmods.com/skyrimspecialedition/mods/58017)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [Favor Jobs Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40145)
+- Updated [Immersive Vampire Clutter - Base Object Swapper (BOS)](https://www.nexusmods.com/skyrimspecialedition/mods/73802)
 - Updated [Mesh patches for Lux and Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/67266)
 - Updated [ODIN spells for NPCS](https://www.nexusmods.com/skyrimspecialedition/mods/46877)
+- Updated [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
 - Updated [Producers of Skyrim - Farmers Miners Fishermen Are Vendors](https://www.nexusmods.com/skyrimspecialedition/mods/61123)
 - Removed [Glacier LOD Meshes](https://www.nexusmods.com/skyrim/mods/110367)
 
