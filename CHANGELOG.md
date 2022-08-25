@@ -1027,6 +1027,7 @@
 - Added [Argonian Weight Slider Affected Tails Port for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/23366)
 - Added [Beyond Skyrim Bruma uses Creation Club Goblins (While keeping Falmer animations)](https://www.nexusmods.com/skyrimspecialedition/mods/50840)
 - Added [Chocolate Poise](https://www.nexusmods.com/skyrimspecialedition/mods/70478)
+- Added [Conditional Dog Barking (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/72336)
 - Added [dTry's Key Utils](https://www.nexusmods.com/skyrimspecialedition/mods/69944)
 - Added [Horses Follow Through Doors](https://www.nexusmods.com/skyrimspecialedition/mods/68338)
 - Added [Icy Mesh Remaster - Ice Glaciers and LOD](https://www.nexusmods.com/skyrimspecialedition/mods/73381)
