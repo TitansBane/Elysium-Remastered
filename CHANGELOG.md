@@ -1016,3 +1016,31 @@
 - Patched the three permanent torches that lack ENB light support, and fix blocky flames on one of the meshes.
 - Reverted back to the old Improved Camera due to the newer version having too many issues still.
 - Tweak the ENB to adjust interior bloom and lens settings and fix super bright snow during the day.
+
+## Elysium Remastered v2.1.1
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Added [Chocolate Poise](https://www.nexusmods.com/skyrimspecialedition/mods/70478)
+- Added [dTry's Key Utils](https://www.nexusmods.com/skyrimspecialedition/mods/69944)
+- Added [Horses Follow Through Doors](https://www.nexusmods.com/skyrimspecialedition/mods/68338)
+- Added [Icy Mesh Remaster - Ice Glaciers and LOD](https://www.nexusmods.com/skyrimspecialedition/mods/73381)
+- Added [MBO Gamepad Patch](https://www.nexusmods.com/skyrimspecialedition/mods/70877)
+- Added [Skyrim Remastered - Glaciers and Ice - 4K textures](https://www.nexusmods.com/skyrimspecialedition/mods/71452)
+- Added [Snowy Boethiah](https://www.nexusmods.com/skyrimspecialedition/mods/59663)
+- Updated [Apocalypse Spells For NPCS](https://www.nexusmods.com/skyrimspecialedition/mods/58017)
+- Updated [Favor Jobs Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40145)
+- Updated [Mesh patches for Lux and Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/67266)
+- Updated [ODIN spells for NPCS](https://www.nexusmods.com/skyrimspecialedition/mods/46877)
+- Updated [Producers of Skyrim - Farmers Miners Fishermen Are Vendors](https://www.nexusmods.com/skyrimspecialedition/mods/61123)
+- Removed [Glacier LOD Meshes](https://www.nexusmods.com/skyrim/mods/110367)
+
+### Tweaks and Fixes:
+
+- Fix a few incorrect Dragonbone armors leveled lists.
+- Fix the Iron Spell Knight Helmet recipe from not showing.
+- Readded Chocolate Poise and adjusted the settings, so it isn't as unforgiving as before.
+- Tweak the ENB, so snow storms and specular on shining objects are no longer overwhelming bright.
+- Tweak Valhalla Combat and Precision MCM settings for better balancing and disable the stun and execution mechanic due to issues with it.
