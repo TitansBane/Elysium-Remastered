@@ -1208,3 +1208,4 @@
 
 - Drastically update the ENB with many fixes and improvements.
 - Fixed pretty much all reported bugs and many other issues that I found.
+- Incorporate widescreen support into the list, so you no longer have to add it.
