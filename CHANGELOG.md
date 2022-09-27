@@ -1052,3 +1052,74 @@
 - Readded Chocolate Poise and adjusted the settings, so it isn't as unforgiving as before.
 - Tweak the ENB, so snow storms and specular on shining objects are no longer overwhelming bright.
 - Tweak Valhalla Combat and Precision MCM settings for better balancing and disable the stun and execution mechanic due to issues with it.
+
+## Elysium Remastered v2.2.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Avanchnzel Dwemer Piston Sound Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/37612)
+- Added [Complementary Grass Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/71562)
+- Added [ENB Helper Plus](https://www.nexusmods.com/skyrimspecialedition/mods/62743)
+- Added [Felsaad Tern Replacer- Mihail Monsters and Animals (SE-AE version)](https://www.nexusmods.com/skyrimspecialedition/mods/75210)
+- Added [Fire Hurts NG](https://www.nexusmods.com/skyrimspecialedition/mods/74064)
+- Added [Fires Hurt RE](https://www.nexusmods.com/skyrimspecialedition/mods/67473)
+- Added [Glowing Mushroom Collision Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/69558)
+- Added [HD Local Map](https://www.nexusmods.com/skyrimspecialedition/mods/74722)
+- Added [JK's Castle Dour](https://www.nexusmods.com/skyrimspecialedition/mods/74309)
+- Added [JK's The Bards College](https://www.nexusmods.com/skyrimspecialedition/mods/71054)
+- Added [Keywords Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/21597)
+- Added [NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498)
+- Added [Rent Room Dialogue Tweak](https://www.nexusmods.com/skyrimspecialedition/mods/34470)
+- Added [Shalidor's Maze Puzzle Sound Fix (Labyrinthian)](https://www.nexusmods.com/skyrimspecialedition/mods/59278)
+- Added [Simple Weapon Swing Parry - NG](https://www.nexusmods.com/skyrimspecialedition/mods/74326)
+- Added [Skunk's xVASynth Cleanup for Fishing - Voiced Narrative](https://www.nexusmods.com/skyrimspecialedition/mods/74351)
+- Added [Skunk's xVASynth Cleanup for Redguard Elite Armaments - Voiced Narrative](https://www.nexusmods.com/skyrimspecialedition/mods/74404)
+- Added [Skyland - Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/24252)
+- Added [Skyrim's Got Talent - Interesting NPCs (3DNPC) Addon](https://www.nexusmods.com/skyrimspecialedition/mods/74466)
+- Added [Ultimate Immersion Toggle - UI Toggle - Hide Your HUD - Rebuild](https://www.nexusmods.com/skyrimspecialedition/mods/62117)
+- Added [Universal Cured Serana Eye Fix](https://www.nexusmods.com/skyrimspecialedition/mods/74759)
+- Added [Welcome Back to the Bee and Barb](https://www.nexusmods.com/skyrimspecialedition/mods/33104)
+- Updated [Additional Clockwork)](https://www.nexusmods.com/skyrimspecialedition/mods/47087)
+- Updated [AI Overhaul SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21654)
+- Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845)
+- Updated [Aspens Ablaze Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/51135)
+- Updated [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+- Updated [College of Winterhold - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666)
+- Updated [Dwemer Gates Don't Reset](https://www.nexusmods.com/skyrimspecialedition/mods/26331)
+- Updated [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
+- Updated [Even Better Quest Objectives SE - EBQO SE](https://www.nexusmods.com/skyrimspecialedition/mods/159)
+- Updated [Gallows Hall - Planters](https://www.nexusmods.com/skyrimspecialedition/mods/59800)
+- Updated [Immersive Vampire Clutter - Base Object Swapper (BOS)](https://www.nexusmods.com/skyrimspecialedition/mods/73802)
+- Updated [Legacy of the Dragonborn - Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/58517)
+- Updated [Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-Hoth-Lucien-Vilja-Remiel-Redcap)](https://www.nexusmods.com/skyrimspecialedition/mods/40816)
+- Updated [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
+- Updated [Lux - Variants](https://www.nexusmods.com/skyrimspecialedition/mods/60524)
+- Updated [More Plantable Plants for Creation Club](https://www.nexusmods.com/skyrimspecialedition/mods/70819)
+- Updated [NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.0.4D](https://www.nexusmods.com/skyrimspecialedition/mods/27141)
+- Updated [Nature of the Wild Lands - forest and trees improvement mod](https://www.nexusmods.com/skyrimspecialedition/mods/63604)
+- Updated [NPCs React To Necromancy (And More)](https://www.nexusmods.com/skyrimspecialedition/mods/70428)
+- Updated [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
+- Updated [Prince and The Pauper Refine (Fixes - Improvements - New Child Outfits - No NPC Edits)](https://www.nexusmods.com/skyrimspecialedition/mods/70037)
+- Updated [PRT XII - PhotoRealistic Tamriel 12.4](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
+- Updated [Realistic Water Two SE](https://www.nexusmods.com/skyrimspecialedition/mods/2182)
+- Updated [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612)
+- Updated [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235)
+- Updated [Thieves' Night On the Town -- Tnott)](https://www.nexusmods.com/skyrimspecialedition/mods/42069)
+- Updated [Tools not weapons DAR animations](https://www.nexusmods.com/skyrimspecialedition/mods/70117)
+- Updated [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741)
+- Updated [Vittorias Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466)
+- Removed [Classic Sprinting Redone (SKSE64)](https://www.nexusmods.com/skyrimspecialedition/mods/20166)
+- Removed [HQ Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/23937)
+- Removed [Immersive HUD - iHUD Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/12440)
+- Removed [Landscape Seam Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/59687)
+- Removed [Simple Weapon Swing Parry - Scripts Free - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/44726)
+
+### Tweaks and Fixes:
+
+- Fixed pretty much all reported bugs and many other issues that I found.
