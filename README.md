@@ -34,7 +34,7 @@
     - [Performance Help](#performance-help)
     - [Controlmap](#controlmap)
     - [Gamepad Support](#gamepad-support)
-    - [Ultrawide Options](#ultrawide-options)
+    - [Ultrawide Support](#ultrawide-support)
     - [Zoomed in Display](#zoomed-in-display)
     - [Removing the Modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
@@ -277,66 +277,9 @@ Once in-game go to The Ultimate Dodge Mod MCM and configure your Player Settings
   - Gamepad/Controller Compatibility : Enabled
   - Sneak Style : Sneak Style 2
   
-### Ultrawide Options
+### Ultrawide Support
 
-If you have an ultrawide monitor (21:9), the UI will be off. Adding widescreen support is a matter of replacing interface mods with compatible versions. Thankfully, there is a central mod page offering widescreen patches for pretty much every interface mod out there.
-
-Most of the files below are available on the [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) mod page.
-
-#### SkyUI
-Download the following file :
-  - Main Files : Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080
-  
-Install as usual. Place the mod below SkyUI Weapons Pack SE in the mod order and SkyUI_SE.esp in the load order.
-
-#### Better Dialogue & MessageBox Controls
-Download the following files :
-  - Optional Files : Better Dialogue Control Widescreen Fix
-  - Optional Files : Better MessageBox Control Widescreen Fix
-  
-These files are replacers. Place them below Complete Widescreen Fix for SkyUI in the mod order and disable/delete the regular versions.
-  
-#### Creation Club
-Download the following file :
-  - Optional Files : Creation Club - Widescreen Fix
-  
-This is a patch. Place it below Complete Widescreen Fix for SkyUI in the mod order.
-  
-#### Extended UI
-Download the following file :
-  - Optional Files : Extended UI - Widescreen Fix
-  
-This is a patch. Place it below Extended UI in the mod order.
-
-#### Wider MCM Menu for SkyUI
-Download the following file :
-  - Optional Files : Opt. 1 - Wider MCM Menu for SkyUI - Widescreen Fix
-  
-This is a replacer. Disable/delete the regular version.
-
-#### SkyHUD
-Download the following file :
-  - Optional Files : SkyHud - High Resolution Widescreen Fix
-  
-This is a patch. Place it below SkyHUD in the mod order.
-
-#### RaceMenu
-Download the following file :
-  - Optional Files : Race Menu SE - WIdescreen Fix
-  
-This is a patch. Place it below RaceMenu in the mod order.
-
-#### Remove QuickSave Button
-Download the following file from the original [Remove QuickSave Button](https://www.nexusmods.com/skyrimspecialedition/mods/28334) mod page :
-  - Main Files : Remove QuickSave Button - UltraWide
-  
-In the FOMOD select 3b - MCM-Save-etc, MCM renamed. This mod is a replacer. Disable/delete the original version.
-
-#### Forget Spell
-Download the following file from the [Ultra Widescreen Patch for Forget Spell (Temporary Upload)](https://www.nexusmods.com/skyrimspecialedition/mods/54854) mod page :
-  - Main Files : Ultrawide Forget Spell Patch
-
-This is a patch. Place it below Forget Spell in the mod order.
+If you have an ultrawide monitor (21:9), the UI will be off. Thankfully, widescreen support is integrated into Elysium by default, so all you need to do is enable all widescreen support mods on the left side of MO2 under the `08 WIDESCREEN SUPPORT` separator and place the widescreen_skyui_fix.esp below SkyUI_SE.esp in the load order. That's it, and you can now start the game up and play.
 
 ### Zoomed in Display
 
