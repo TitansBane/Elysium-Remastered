@@ -279,7 +279,7 @@ Once in-game go to The Ultimate Dodge Mod MCM and configure your Player Settings
   
 ### Ultrawide Support
 
-If you have an ultrawide monitor (21:9), the UI will be off. Thankfully, widescreen support is integrated into Elysium by default, so all you need to do is enable all widescreen support mods on the left side of MO2 under the `08 WIDESCREEN SUPPORT` separator and place the widescreen_skyui_fix.esp below SkyUI_SE.esp in the load order. That's it, and you can now start the game up and play.
+If you have an ultrawide monitor (21:9), the UI will be off. Thankfully, widescreen support is integrated into Elysium Remastered by default, so all you need to do is enable all widescreen support mods on the left side of MO2 under the `08 WIDESCREEN SUPPORT` separator and place the widescreen_skyui_fix.esp below SkyUI_SE.esp in the load order. That's it, and you can now start the game up and play.
 
 ### Zoomed in Display
 
