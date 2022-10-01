@@ -1118,6 +1118,7 @@
 - Added [Universal Cured Serana Eye Fix](https://www.nexusmods.com/skyrimspecialedition/mods/74759)
 - Added [Use Those Blankets](https://www.nexusmods.com/skyrimspecialedition/mods/75481)
 - Added [Use Those Comfy Blankets - Fluffy and Animated](https://www.nexusmods.com/skyrimspecialedition/mods/75900)
+- Added [VIGILANT - Enb light chest Fix](https://www.nexusmods.com/skyrimspecialedition/mods/76205)
 - Added [Welcome Back to the Bee and Barb](https://www.nexusmods.com/skyrimspecialedition/mods/33104)
 - Added [XPMSSE Spazzing Skeleton and Corpse Fix](https://www.nexusmods.com/skyrimspecialedition/mods/75830)
 - Updated [3D Trellis Improved - Gildergreen Plaza](https://www.nexusmods.com/skyrimspecialedition/mods/75882)
@@ -1209,3 +1210,24 @@
 - Drastically update the ENB with many fixes and improvements.
 - Fixed pretty much all reported bugs and many other issues that I found.
 - Incorporate widescreen support into the list, so you no longer have to add it.
+
+## Elysium Remastered v2.2.1
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Added [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257)
+- Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
+- Updated [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
+- Updated [Movement Behavior Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/38950)
+- Updated [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
+- Updated [Skyrim - A Mountainous Experience](https://www.nexusmods.com/skyrimspecialedition/mods/43866)
+- Updated [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
+- Updated [TrueHUD - HUD Additions](https://www.nexusmods.com/skyrimspecialedition/mods/62775)
+- Removed [Majestic Mountains - More Accurate Collision](https://www.nexusmods.com/skyrimspecialedition/mods/65042)
+
+### Tweaks and Fixes:
+- Add an optional mod with higher poly snow trees that can be enabled on the left-hand side of MO2 at priority 460.
+- Fix a few more reported bugs from the previous update.
+- Lower the ENB effect out white setting slightly, so the environment looks less washout.
