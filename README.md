@@ -89,7 +89,7 @@ Once that done, close Skyrim.
 
 #### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads, or Program Files folder. It's best to create a Wabbajack folder near your drive's root level like `C:/Wabbajack.`
+Grab the 2.5.3.28 release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases/tag/2.5.3.28) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads, or Program Files folder. It's best to create a Wabbajack folder near your drive's root level like `C:/Wabbajack.`
 
 #### Downloading and Installing
 
