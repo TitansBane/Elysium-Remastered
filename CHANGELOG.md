@@ -1231,3 +1231,36 @@
 - Add an optional mod with higher poly snow trees that can be enabled on the left-hand side of MO2 at priority 460.
 - Fix a few more reported bugs from the previous update.
 - Lower the ENB effect out white setting slightly, so the environment looks less washout.
+
+## Elysium Remastered v2.3.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [ENB Light for CC Daedric Crossbow](https://www.nexusmods.com/skyrimspecialedition/mods/76583)
+- Added [Fate Cards Remade - Legacy of The Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/76418)
+- Added [Fate Cards Remade - My version](https://www.nexusmods.com/skyrimspecialedition/mods/76575)
+- Added [Hype's Farmhouse Door - Skyland - CleverCharff - Shubui - Vanilla color palette](https://www.nexusmods.com/skyrimspecialedition/mods/76225)
+- Added [Majestic Mountains - More Accurate Collision](https://www.nexusmods.com/skyrimspecialedition/mods/65042)
+- Updated [Animated HD Thalmor Banners](https://www.nexusmods.com/skyrimspecialedition/mods/4413)
+- Updated [Cathedral 3D Deathbell - ENB Particle Light - Glowmap Patch](https://www.nexusmods.com/skyrimspecialedition/mods/76473)
+- Updated [Draugr One-handed Animation (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/74685)
+- Updated [FYX - Fortified Whiterun Consistency](https://www.nexusmods.com/skyrimspecialedition/mods/67881)
+- Updated [Icy Mesh Remaster - Ice Glaciers and LOD](https://www.nexusmods.com/skyrimspecialedition/mods/73381)
+- Updated [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001)
+- Updated [Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
+- Updated [Mesh patches for Lux and Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/67266)
+- Updated [Skyrim's Got Talent - Interesting NPCs (3DNPC) Addon](https://www.nexusmods.com/skyrimspecialedition/mods/74466)
+- Updated [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257)
+- Updated [Unofficial eFPS patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
+- Updated [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
+- Removed [Legacy of the Dragonborn - Fate Cards Re-texture - Skyrim Concept Art](https://www.nexusmods.com/skyrimspecialedition/mods/16080)
+
+### Tweaks and Fixes:
+- Fix the mismatch snow LOD so it seamlessly blends in better.
+- More xEdit fixes.
