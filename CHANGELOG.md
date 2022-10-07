@@ -1213,7 +1213,7 @@
 
 ## Elysium Remastered v2.2.1
 
-### Released at: `Unreleased`
+### Released at: `10/1/2022`
 
 ### Download Changes:
 
@@ -1234,7 +1234,7 @@
 
 ## Elysium Remastered v2.3.0
 
-### Released at: `Unreleased`
+### Released at: `10/7/2022`
 
 ### Info:
 
