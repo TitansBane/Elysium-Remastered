@@ -1264,3 +1264,41 @@
 ### Tweaks and Fixes:
 - Fix the mismatch snow LOD so it seamlessly blends in better.
 - More xEdit fixes.
+
+## Elysium Remastered v2.3.1
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Added [Animated Whistling](https://www.nexusmods.com/skyrimspecialedition/mods/76733)
+- Added [Daedric Shrines - Malacath](https://www.nexusmods.com/skyrimspecialedition/mods/75762)
+- Added [Dynamic Collision Adjustment](https://www.nexusmods.com/skyrimspecialedition/mods/76783)
+- Added [Paintings Remade - Legacy of The Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/76823)
+- Added [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764)
+- Added [Skyland Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/76727)
+- Added [Sleeping Expanded for Interesting NPCs (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/76753)
+- Added [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606)
+- Updated [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087)
+- Updated [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316)
+- Updated [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+- Updated [Enemy Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/50483)
+- Updated [Enhanced Invisibility](https://www.nexusmods.com/skyrimspecialedition/mods/61950)
+- Updated [Enhanced Reanimation](https://www.nexusmods.com/skyrimspecialedition/mods/43500)
+- Updated [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997)
+- Updated [Favorite Misc Items](https://www.nexusmods.com/skyrimspecialedition/mods/42750)
+- Updated [Favor Jobs Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40145)
+- Updated [Immersive Interactions - Animated Actions](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
+- Updated [Magic Sneak Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/67613)
+- Updated [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
+- Updated [Missives - Worldspace Additions](https://www.nexusmods.com/skyrimspecialedition/mods/26788)
+- Updated [Moons and Stars - Sky Overhaul SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/73336)
+- Updated [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
+- Updated [Skyland - Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/64785)
+- Updated [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)
+- Updated [Sound Fix for Large Sector Drives](https://www.nexusmods.com/skyrimspecialedition/mods/71567)
+- Updated [Splashes Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710)
+- Updated [TAA Flicker Fixer](https://www.nexusmods.com/skyrimspecialedition/mods/76436)
+- Updated [TrueHUD - HUD Additions](https://www.nexusmods.com/skyrimspecialedition/mods/62775)
+- Updated [Vampires Cast No Shadow 2](https://www.nexusmods.com/skyrimspecialedition/mods/46107)
+- Removed [Rally's Solstheim Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/35590)
