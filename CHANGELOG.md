@@ -1314,6 +1314,7 @@
 - Updated [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425)
 - Updated [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001)
 - Updated [Immersive Interactions - Animated Actions](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
+- Updated [Legacy of The Dragonborn - Museum Exterior Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/47321)
 - Updated [Magic Sneak Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/67613)
 - Updated [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
 - Updated [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000)
