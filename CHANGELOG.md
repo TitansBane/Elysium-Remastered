@@ -1267,7 +1267,7 @@
 
 ## Elysium Remastered v2.3.1
 
-### Released at: `Unreleased`
+### Released at: `10/20/2022`
 
 ### Download Changes:
 
@@ -1348,3 +1348,17 @@
 - Removed [Stay At The System Page - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/19832)
 - Removed [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581)
 - Removed [Yes Im Sure](https://www.nexusmods.com/skyrimspecialedition/mods/24898)
+
+## Elysium Remastered v2.4.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Aurora Fix](https://www.nexusmods.com/skyrimspecialedition/mods/77834)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
