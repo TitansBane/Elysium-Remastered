@@ -1360,21 +1360,33 @@
 ### Download Changes:
 
 - Added [Aurora Fix](https://www.nexusmods.com/skyrimspecialedition/mods/77834)
+- Added [FYX Smooth Wells - Invisible Well Fix](https://www.nexusmods.com/skyrimspecialedition/mods/77749)
 - Added [FYX - Water Splash](https://www.nexusmods.com/skyrimspecialedition/mods/77971)
 - Added [Immersive Equipping Animations](https://www.nexusmods.com/skyrimspecialedition/mods/77187)
 - Added [Legacy of the Dragonborn - Improved Dig Sites SE](https://www.nexusmods.com/skyrimspecialedition/mods/78042)
+- Added [Pelage - Fluffy Animals and Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/73400)
 - Updated [Animated Forge Water](https://www.nexusmods.com/skyrimspecialedition/mods/52322)
 - Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
 - Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
 - Updated [College of Winterhold - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666)
 - Updated [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
 - Updated [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
 - Updated [ENB Helper Plus](https://www.nexusmods.com/skyrimspecialedition/mods/62743)
+- Updated [Favor Jobs Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40145)
 - Updated [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425)
 - Updated [Icy Mesh Remaster - Ice Glaciers and LOD](https://www.nexusmods.com/skyrimspecialedition/mods/73381)
+- Updated [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001)
 - Updated [lilebonymace's patches and xEdit scripts](https://www.nexusmods.com/skyrimspecialedition/mods/36042)
+- Updated [Majestic Mountains - More Accurate Collision](https://www.nexusmods.com/skyrimspecialedition/mods/65042)
 - Updated [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641)
+- Updated [Particle Patch for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/65720)
 - Updated [Rob's Bug Fixes - COTN Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/65456)
 - Updated [Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/62861)
+- Updated [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138)
 - Updated [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
 - Updated [Water Effects Brightness and Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63862)
+- Updated [WiZkiD Lund's Hut](https://www.nexusmods.com/skyrimspecialedition/mods/77013)
+
+### Tweaks and Fixes:
+- Added three new unique bridges from Northern Roads.
