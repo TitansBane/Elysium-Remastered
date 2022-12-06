@@ -1391,3 +1391,64 @@
 ### Tweaks and Fixes:
 - Added three new unique bridges from Northern Roads.
 - Fix all recent reported bugs.
+
+## Elysium Remastered v2.5.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Bijin NPCs Scar Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/78453)
+- Added [Daedric Shrines - Malacath - No snow under the roof patch](https://www.nexusmods.com/skyrimspecialedition/mods/78762)
+- Added [Daedric Shrines - Meridia](https://www.nexusmods.com/skyrimspecialedition/mods/78428)
+- Added [Daedric Shrines - Meridia - My patches](https://www.nexusmods.com/skyrimspecialedition/mods/78462)
+- Added [Dibella statue - No snow under the roof patch](https://www.nexusmods.com/skyrimspecialedition/mods/78630)
+- Added [Diversified Chickens](https://www.nexusmods.com/skyrimspecialedition/mods/32425)
+- Added [ElSopa - HD Medieval Hammer - DLC02 patch - SE](https://www.nexusmods.com/skyrimspecialedition/mods/78656)
+- Added [FYX - RowBoat](https://www.nexusmods.com/skyrimspecialedition/mods/78566)
+- Added [Mists of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/78703)
+- Added [Noble Furniture SMIMed - Water for the Wash Basin](https://www.nexusmods.com/skyrimspecialedition/mods/77505)
+- Added [OSHA-Compliant Sovengarde Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/70148)
+- Added [Pandorable's Dashing Defenders - Beleval Ingjard](https://www.nexusmods.com/skyrimspecialedition/mods/78600)
+- Added [Praedy's Fort Dawnguard - SE](https://www.nexusmods.com/skyrimspecialedition/mods/48217)
+- Added [Skyrim's Got Talent - Player Reactions Addon](https://www.nexusmods.com/skyrimspecialedition/mods/78629)
+- Added [Skyrim Objects SMIMed - Noble Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/77499)
+- Added [Thalmor Don't Report To Stormcloaks](https://www.nexusmods.com/skyrimspecialedition/mods/73890)
+- Added [Truly Neutral Prisoners](https://www.nexusmods.com/skyrimspecialedition/mods/73873)
+- Added [Unique Map Weather](https://www.nexusmods.com/skyrimspecialedition/mods/59919)
+- Added [Unique Map Weather - Vanilla Additions](https://www.nexusmods.com/skyrimspecialedition/mods/78586)
+- Added [Wood Wall Trap Mesh and UV Fix](https://www.nexusmods.com/skyrimspecialedition/mods/78686)
+- Updated [Arvak Burning Hooves Restored - Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/51517)
+- Updated [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466)
+- Updated [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)
+- Updated [Curated Bosses for True HUD](https://www.nexusmods.com/skyrimspecialedition/mods/53406)
+- Updated [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+- Updated [ENB Light Inventory Fix (ELIF)](https://www.nexusmods.com/skyrimspecialedition/mods/66411)
+- Updated [EVG Animated Traversal](https://www.nexusmods.com/skyrimspecialedition/mods/63232)
+- Updated [Flickering Meshes Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53957)
+- Updated [Foamimi's Salt and Wind Retexture Hub](https://www.nexusmods.com/skyrimspecialedition/mods/75663)
+- Updated [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961)
+- Updated [High Poly Dragonborn Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/69406)
+- Updated [Icy Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/55329)
+- Updated [Immersive Equipping Animations](https://www.nexusmods.com/skyrimspecialedition/mods/77187)
+- Updated [Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728)
+- Updated [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
+- Updated [Nemesis Creature Behaviour Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/45966)
+- Updated [OBody NG - For OStim and Standalone Version](https://www.nexusmods.com/skyrimspecialedition/mods/77016)
+- Updated [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135)
+- Updated [Praedy's repository - SE](https://www.nexusmods.com/skyrimspecialedition/mods/44644)
+- Updated [Riften Architectural Details](https://www.nexusmods.com/skyrimspecialedition/mods/70854)
+- Updated [Rudy fix for Splashes of Storms and ENB](https://www.nexusmods.com/skyrimspecialedition/mods/72985)
+- Updated [Sounds of Skyrim Complete SE](https://www.nexusmods.com/skyrimspecialedition/mods/8286)
+- Updated [The Great City of Winterhold Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74560)
+- Updated [Unofficial eFPS patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
+- Updated [Wash That Blood Off 2](https://www.nexusmods.com/skyrimspecialedition/mods/62358)
+- Removed [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221)
+- Removed [Morning Fogs SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21436)
+- Removed [OBody](https://www.nexusmods.com/skyrimspecialedition/mods/51084)
+- Removed [OBody Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/58755)
+- Removed [Volumetric Mists](https://www.nexusmods.com/skyrimspecialedition/mods/29273)
