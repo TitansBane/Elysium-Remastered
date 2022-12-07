@@ -1394,7 +1394,7 @@
 
 ## Elysium Remastered v2.5.0
 
-### Released at: `Unreleased`
+### Released at: `12/6/2022`
 
 ### Info:
 
@@ -1473,6 +1473,7 @@
 - Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
 - Updated [ENB Light Inventory Fix (ELIF)](https://www.nexusmods.com/skyrimspecialedition/mods/66411)
 - Updated [EVG Animated Traversal](https://www.nexusmods.com/skyrimspecialedition/mods/63232)
+- Updated [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
 - Updated [Favor Jobs Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40145)
 - Updated [Flickering Meshes Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53957)
 - Updated [Foamimi's Salt and Wind Retexture Hub](https://www.nexusmods.com/skyrimspecialedition/mods/75663)
