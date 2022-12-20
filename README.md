@@ -18,7 +18,7 @@
         - [Problems with Wabbajack](#problems-with-wabbajack)
         - [Could not download x](#could-not-download-x)
   - [Post-Installation](#post-installation)
-    - [Stock Game](#stock-game)
+    - [Root Builder](#root-builder)
     - [Creation Club](#creation-club)
     - [ENB](#enb)
   - [How to start up Elysium Remastered](#how-to-start-up-elysium-remastered)
@@ -125,11 +125,11 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Post-Installation
 
-### Stock Game
+### Root Builder
 
-Unlike regular Skyrim installation or other Wabbajack lists, Elysium Remastered comes with the **Stock Game Feature** which is a copy of a Skyrim installation located within your installation folder, cleaned, and with everything you need to start playing now. 
+Unlike regular Skyrim installation or other Wabbajack lists, Elysium Remastered uses a tool known as Root Builder. For more details regarding it, please view [the mod page](https://www.nexusmods.com/skyrimspecialedition/mods/31720)
 
-It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Therefore, after Wabbajack completes, you don't need to move anything to your regular Skyrim installation. If you wish to change ENB please follow the steps below.
+If you wish to change ENB, please follow the steps below.
 
 ### Creation Club
 
