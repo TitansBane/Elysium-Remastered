@@ -139,7 +139,7 @@ Elysium Remastered utilizes all Creation Club content for Legacy of the Dragonbo
 
 Elysium Remastered comes configured with a tweak combination of both [NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.0](https://www.nexusmods.com/skyrimspecialedition/mods/27141) and [PRT XII - PhotoRealistic Tamriel 12](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
 
-Suppose you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support NAT.ENB. To replace the ENB installed, delete the enbcache folder, enbseries folder, enbseries.ini, and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
+Suppose you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support NAT.ENB. To replace the stock ENB, click on the `Spanner and Screwdriver` icon in MO2, select `Root Builder`, and tick the `Installer` checkbox under `Settings`. Add the ENB as a new mod in MO2. Rootbuilder should assign it correctly. Disable ENBSeries - NAT.ENB III + PRT XII ENB and activate your new ENB.
 
 A few other ENB suggestions are:
 
@@ -205,7 +205,7 @@ Elysium Remastered comes with a wide variety of new quests and encounters. A few
 
 [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) is a DLC sized new lands mod that allows you to travel beyond the borders of Skyrim and explore Bruma, the northernmost county in Cyrodiil. Delve into Ayleid ruins, meddle in local affairs or explore the wilds - the journey begins now.
 
-[Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) adds a whole new set of quests, enemies, equipment to the game revolving around the Vigilants of Stendarr and Daedra. Vigilant has been tweaked to start at level 40 to prevent easy access to high-level gear and fighting bosses that are almost impossible to beat at lower levels.
+[Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) adds a whole new set of quests, enemies, equipment to the game revolving around the Vigilants of Stendarr and Daedra. Vigilant has been tweaked to start at level 25 and requires you to finish the House of Horrors quest to prevent easy access to high-level gear and fighting bosses that are almost impossible to beat at lower levels.
 
 [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) adds a new quest that takes the Dragonborn to the island of Wyrmstooth situated north of Solitude across the Sea of Ghosts. Battle across new landscapes and through new dungeons in this expansion-sized mod. Wyrmstooth has been tweaked to start at level 30, and all dungeons now scale around level 30ish.
 
