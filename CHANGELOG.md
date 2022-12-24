@@ -1554,3 +1554,41 @@
 - Removed [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764)
 - Removed [Useless Patches Collection - Because who cares about conflict resolution and consistency](https://www.nexusmods.com/skyrimspecialedition/mods/27667)
 - Removed [Volumetric Mists](https://www.nexusmods.com/skyrimspecialedition/mods/29273)
+
+## Elysium Remastered v2.6.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Dwemer Armor SE](https://www.nexusmods.com/skyrimspecialedition/mods/81043)
+- Added [Dwemer Armor SE - My patches and fixes](https://www.nexusmods.com/skyrimspecialedition/mods/81046)
+- Added [Dynamic Animation Casting - NG](https://www.nexusmods.com/skyrimspecialedition/mods/73293)
+- Added [DynDOLOD DLL SE](https://www.nexusmods.com/skyrimspecialedition/mods/57264)
+- Added [Riften Ragged Flagon Flickering Fix](https://www.nexusmods.com/skyrimspecialedition/mods/80678)
+- Updated [Chocolate Poise](https://www.nexusmods.com/skyrimspecialedition/mods/70478)
+- Updated [Cities of the North - Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952)
+- Updated [Cities of the North - Dawnstar Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30885)
+- Updated [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608)
+- Updated [Creation Club Open Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/70992)
+- Updated [Crows- Mihail Monsters and Animals (SE-AE version) (''raven'')](https://www.nexusmods.com/skyrimspecialedition/mods/50447)
+- Updated [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+- Updated [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
+- Updated [Know Your Enemy - Trait-based resistances and weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/13807)
+- Updated [lilebonymace's patches and xEdit scripts](https://www.nexusmods.com/skyrimspecialedition/mods/36042)
+- Updated [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)
+- Updated [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)
+- Updated [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
+- Updated [Riften Architectural Details](https://www.nexusmods.com/skyrimspecialedition/mods/70854)
+- Updated [Simple Snow Improvements - Skyrim (BOS)](https://www.nexusmods.com/skyrimspecialedition/mods/78702)
+- Updated [Skyrim Upscaler - DLSS FSR2 XeSS](https://www.nexusmods.com/skyrimspecialedition/mods/80343)
+- Updated [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741)
+- Updated [Vivid Landscapes - Complex Parallax Occlusion Snow](https://www.nexusmods.com/skyrimspecialedition/mods/80286)
+- Updated [Water Effects Brightness and Reflection Fix - Realistic Water Two Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64736)
+- Updated [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
+- Removed [aMidianBorn Book of Silence - Extra pages](https://www.nexusmods.com/skyrimspecialedition/mods/44998)
+- Removed [Dynamic Animation Casting](https://www.nexusmods.com/skyrimspecialedition/mods/65512)
