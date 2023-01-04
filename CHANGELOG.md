@@ -1592,3 +1592,56 @@
 - Updated [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
 - Removed [aMidianBorn Book of Silence - Extra pages](https://www.nexusmods.com/skyrimspecialedition/mods/44998)
 - Removed [Dynamic Animation Casting](https://www.nexusmods.com/skyrimspecialedition/mods/65512)
+
+## Elysium Remastered v2.7.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Alchemy Plus](https://www.nexusmods.com/skyrimspecialedition/mods/80882)
+- Added [Alchemy Plus SE](https://www.nexusmods.com/skyrimspecialedition/mods/81747)
+- Added [Beard Mask Fix SE](https://www.nexusmods.com/skyrimspecialedition/mods/81756)
+- Added [C.O.C.K.S. SE](https://www.nexusmods.com/skyrimspecialedition/mods/81723)
+- Added [Constructible Object Custom Keyword System](https://www.nexusmods.com/skyrimspecialedition/mods/81409)
+- Added [Constructible Object Custom Keyword System - Seperate Weapon and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/81787)
+- Added [Ghosts of the Tribunal - Particle Lights for ENB Addon](https://www.nexusmods.com/skyrimspecialedition/mods/81783)
+- Added [NPCs Ain't Hachikos](https://www.nexusmods.com/skyrimspecialedition/mods/81618)
+- Added [Rock Traps Trigger Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/81587)
+- Added [Roggvir's Execution Scene Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/74652)
+- Added [Slaughterfish Eggs 2k-4k Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/82003)
+- Updated [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
+- Updated [Camera Noise](https://www.nexusmods.com/skyrimspecialedition/mods/77185)
+- Updated [Cities of the North - Dawnstar Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30885)
+- Updated [Cities of the North - Falkreath Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/56734)
+- Updated [Complementary Grass Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/71562)
+- Updated [Creature Collision Fix](https://www.nexusmods.com/skyrimspecialedition/mods/68402)
+- Updated [Dwemer Armor SE - My patches and fixes](https://www.nexusmods.com/skyrimspecialedition/mods/81046)
+- Updated [Dynamic Animation Casting - NG](https://www.nexusmods.com/skyrimspecialedition/mods/73293)
+- Updated [Lalup's NPCs - Creation Club](https://www.nexusmods.com/skyrimspecialedition/mods/77129)
+- Updated [Legacy of the Dragonborn - Ancient Daedric Armor replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/58684)
+- Updated [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)
+- Updated [Particle Patch for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/65720)
+- Updated [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
+- Updated [Press H to Horse - Creation Club Horses Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/81195)
+- Updated [Security Overhaul SKSE - Some More Locks](https://www.nexusmods.com/skyrimspecialedition/mods/59961)
+- Updated [Skyrim Upscaler - DLSS FSR2 XeSS](https://www.nexusmods.com/skyrimspecialedition/mods/80343)
+- Updated [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257)
+- Updated [Solitude Interiors Meshes Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/78761)
+- Updated [True Hunter - fewer animals per square meter](https://www.nexusmods.com/skyrimspecialedition/mods/25628)
+- Updated [Worldspace Transition Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/48889)
+- Removed [Daedric Armor - My patches SE](https://www.nexusmods.com/skyrimspecialedition/mods/58692)
+- Removed [DynDOLOD DLL SE](https://www.nexusmods.com/skyrimspecialedition/mods/57264)
+
+### Tweaks and Fixes:
+- Fix a broken navmesh at the entrance to the College of Winterhold, causing NPCs to have trouble entering or leaving the place.
+- Fix a bug where you could execute any NPC by repeatedly mashing right and left clicks, especially easy to abuse with 1-hand and shield.
+- Fix a few minor xEdit bugs with helmets that were missing armor add-ons.
+- Fix a game-breaking bug by removing the offending mod where the quest alias would fail to fill after saving and reloading the game, thus causing any quest to break.
+- Patch all open helmets for compatibility with Beard Mask Fix so long beards will no longer clip.
+- Re-enable Speed up native calls as the main culprit was found.
+- Vokrii armor padding is now compatible with AllGUD left-handed weapon slot.
