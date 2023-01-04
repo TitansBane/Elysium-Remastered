@@ -1595,7 +1595,7 @@
 
 ## Elysium Remastered v2.7.0
 
-### Released at: `Unreleased`
+### Released at: `1/4/2023`
 
 ### Info:
 
