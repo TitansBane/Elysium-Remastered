@@ -1640,7 +1640,7 @@
 ### Tweaks and Fixes:
 - Fix a broken navmesh at the entrance to the College of Winterhold, causing NPCs to have trouble entering or leaving the place.
 - Fix a bug where you could execute any NPC by repeatedly mashing right and left clicks, especially easy to abuse with 1-hand and shield.
-- Fix a few minor xEdit bugs with helmets that were missing armor add-ons.
+- Fix a few minor xEdit bugs with helmets that were missing armor add-ons and two CC butterflies ingredient replicas where the in-game models had the wrong file path.
 - Fix a game-breaking bug by removing the offending mod where the quest alias would fail to fill after saving and reloading the game, thus causing any quest to break.
 - Patch all open helmets for compatibility with Beard Mask Fix so long beards will no longer clip.
 - Re-enable Speed up native calls as the main culprit was found.
