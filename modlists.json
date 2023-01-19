@@ -23,18 +23,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/image/Elysium_Remastered_Banner.webp",
       "readme": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Elysium%20Remastered.wabbajack_c9ca7fa6-7e5e-481f-9e96-f7bd23b2823a",
+      "download": "https://authored-files.wabbajack.org/Elysium%20Remastered.wabbajack_86e1dd1a-2846-40f5-b09d-45e3e535e4c0",
       "machineURL": "elysium",
       "discordURL": "https://discord.gg/FAfPb9T"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "SOmxD0WRwk0=",
-      "Size": 3213109065,
+      "Hash": "vstE/yrsZa8=",
+      "Size": 3213107928,
       "NumberOfArchives": 2407,
-      "SizeOfArchives": 185354746680,
+      "SizeOfArchives": 185362209696,
       "NumberOfInstalledFiles": 309974,
-      "SizeOfInstalledFiles": 336230238315
+      "SizeOfInstalledFiles": 336230240164
     },
     "version": "2.7.0",
     "RepositoryName": ""
