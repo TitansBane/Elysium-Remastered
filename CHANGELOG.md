@@ -1645,3 +1645,46 @@
 - Patch all open helmets for compatibility with Beard Mask Fix so long beards will no longer clip.
 - Re-enable Speed up native calls as the main culprit was found.
 - Vokrii armor padding is now compatible with AllGUD left-handed weapon slot.
+
+## Elysium Remastered v2.7.1
+
+### Released at: `Unreleased`
+
+### Download Changes:
+
+- Added [Artifacts - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/83855)
+- Added [CC Camping - Embers XD patch](https://www.nexusmods.com/skyrimspecialedition/mods/83820)
+- Added [HD Honeycomb](https://www.nexusmods.com/skyrimspecialedition/mods/84243)
+- Added [Majestic Mountains - Simplicity of Snow Patch](https://www.nexusmods.com/skyrimspecialedition/mods/84042)
+- Added [New Creature Animation - Troll](https://www.nexusmods.com/skyrimspecialedition/mods/84026)
+- Added [New Creature Animation - Werewolf](https://www.nexusmods.com/skyrimspecialedition/mods/83806)
+- Added [Parallax Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/83935)
+- Added [SkyTEST - Chicks - Model replacer and Better idle sounds SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/84145)
+- Added [Vigilant - foootprints patch](https://www.nexusmods.com/skyrimspecialedition/mods/60239)
+- Added [Weathered Stockades Retexture - 4K - 2K](https://www.nexusmods.com/skyrimspecialedition/mods/83088)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Auriel's Chantry HD - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/51542)
+- Updated [Chocolate Poise](https://www.nexusmods.com/skyrimspecialedition/mods/70478)
+- Updated [Complete Crafting Overhaul Remastered - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/58179)
+- Updated [Constructible Object Custom Keyword System NG](https://www.nexusmods.com/skyrimspecialedition/mods/81731)
+- Updated [Creation Club Open Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/70992)
+- Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
+- Updated [Enhanced Worldspace Maps](https://www.nexusmods.com/skyrimspecialedition/mods/57176)
+- Updated [Forgotten Retex Project](https://www.nexusmods.com/skyrimspecialedition/mods/7849)
+- Updated [JK's Guild HQ Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/61416)
+- Updated [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)
+- Updated [Nocturnal Moths](https://www.nexusmods.com/skyrimspecialedition/mods/68288)
+- Updated [NPC Animation Remix (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/63471)
+- Updated [Particle Patch for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/65720)
+- Updated [Praedy's Chantry of Auriel AIO - SE](https://www.nexusmods.com/skyrimspecialedition/mods/47204)
+- Updated [Producers of Skyrim - Farmers Miners Fishermen Are Vendors](https://www.nexusmods.com/skyrimspecialedition/mods/61123)
+- Updated [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257)
+- Updated [Solitude farmhouses rework](https://www.nexusmods.com/skyrimspecialedition/mods/74334)
+- Updated [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
+- Updated [Underground - Complex Parallax Addon](https://www.nexusmods.com/skyrimspecialedition/mods/82870)
+- Updated [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975)
+- Updated [Use Those Comfy Blankets - Fluffy and Animated](https://www.nexusmods.com/skyrimspecialedition/mods/75900)
+- Updated [WiZkiD Carriages](https://www.nexusmods.com/skyrimspecialedition/mods/39640)
+- Removed [Deadly Spell Impacts Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41284)
+- Removed [HD Bees and Honeycombs](https://www.nexusmods.com/skyrimspecialedition/mods/34163)
+- Removed [SkyTEST - Mihail's chick replacer and better idle sound SE](https://www.nexusmods.com/skyrimspecialedition/mods/35634)
