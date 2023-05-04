@@ -2007,3 +2007,4 @@
 
 ### Tweaks and Fixes:
 - Consistency patched and fixed over a thousand bugs.
+- Updated the stock ENB with many improvements.
