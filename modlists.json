@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Elysium Remastered",
     "description": "Elysium Remastered is a complete rebuild of the original Elysium modlist. Like the original, it focuses primarily on visuals and is fully featured with hundreds of new additions and full Creation Club support—extending the base setup with Enai Siaion's full suite of gameplay overhauls and various new quests and encounters. (6GB+ of VRAM Required.)",
     "author": "TitansBane",
@@ -8,8 +7,9 @@
       "github/TitansBane"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
-      "Unofficial",
+      "Official",
       "Creation Club",
       "LotD",
       "EnaiRim",
@@ -17,26 +17,27 @@
       "Survival"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/image/Elysium_Remastered_Banner.webp",
       "readme": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Elysium%20Remastered.wabbajack_15196563-ef87-4673-9116-98b3e3ed9b47",
+      "download": "https://authored-files.wabbajack.org/Elysium%20Remastered.wabbajack_4dbecf1b-2a1b-4563-a73b-b1d8cad1654d",
       "machineURL": "elysium",
       "discordURL": "https://discord.gg/FAfPb9T"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "CkLwONRopJ0=",
-      "Size": 3196391852,
-      "NumberOfArchives": 2423,
-      "SizeOfArchives": 187081831919,
-      "NumberOfInstalledFiles": 312021,
-      "SizeOfInstalledFiles": 337561600532
+      "Hash": "C0+ZDK0BfjU=",
+      "Size": 2382529505,
+      "NumberOfArchives": 2506,
+      "SizeOfArchives": 191607322982,
+      "NumberOfInstalledFiles": 316557,
+      "SizeOfInstalledFiles": 345807452822
     },
-    "version": "2.7.1",
-    "RepositoryName": ""
+    "version": "3.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
