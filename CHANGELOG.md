@@ -2008,3 +2008,62 @@
 ### Tweaks and Fixes:
 - Consistency patched and fixed over a thousand bugs.
 - Updated the stock ENB with many improvements.
+
+## Elysium Remastered v3.1.0
+
+### Released at: `5/13/2023`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [A Journey Begins - Main Menu Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/84176)
+- Added [Ancient Nord Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91136)
+- Added [Better Effigy of King Olaf](https://www.nexusmods.com/skyrimspecialedition/mods/90849)
+- Added [Better tomboys (wide spread arms fix) DAR animations](https://www.nexusmods.com/skyrimspecialedition/mods/90569)
+- Added [Betty Netch](https://www.nexusmods.com/skyrimspecialedition/mods/88777)
+- Added [Blind people DAR animations](https://www.nexusmods.com/skyrimspecialedition/mods/90947)
+- Added [Bound hands - Helgen attack DAR animations](https://www.nexusmods.com/skyrimspecialedition/mods/89247)
+- Added [ENB Ray Tracing Global Illumination](https://www.nexusmods.com/skyrimspecialedition/mods/90210)
+- Added [Falmer Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/90711)
+- Added [Few CC plants](https://www.nexusmods.com/skyrimspecialedition/mods/63488)
+- Added [Higher Poly Vanilla Wolfskull Altar](https://www.nexusmods.com/skyrimspecialedition/mods/91182)
+- Added [Hot Lava - Heat Distortion](https://www.nexusmods.com/skyrimspecialedition/mods/90916)
+- Added [Icy Caves](https://www.nexusmods.com/skyrimspecialedition/mods/90476)
+- Added [Kabu's Really Gourd Plant Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/90824)
+- Added [Kanjs - War Horns. Nordic Horn Texture Patch](https://www.nexusmods.com/skyrimspecialedition/mods/91110)
+- Added [MQ104PlayerScript Fix](https://www.nexusmods.com/skyrimspecialedition/mods/90996)
+- Added [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680)
+- Added [RemoveAllItems Freeze Fix](https://www.nexusmods.com/skyrimspecialedition/mods/90734)
+- Added [Skeleton Replacer - Haugbui](https://www.nexusmods.com/skyrimspecialedition/mods/91249)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Barefoot Footstep Extended SE](https://www.nexusmods.com/skyrimspecialedition/mods/40308)
+- Updated [Cathedral - 3D Solstheim Grass](https://www.nexusmods.com/skyrimspecialedition/mods/90945)
+- Updated [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507)
+- Updated [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+- Updated [Fluffy Wall Mounted Dead Animals](https://www.nexusmods.com/skyrimspecialedition/mods/90369)
+- Updated [Hanaisse's Ingredients Bowl And ENB Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63530)
+- Updated [Interesting NPCs (3DNPC) Script Optimisation - barbasdialoguedetect](https://www.nexusmods.com/skyrimspecialedition/mods/87245)
+- Updated [Janquel's Arguably Needed Quixotically Unifying ESP Library](https://www.nexusmods.com/skyrimspecialedition/mods/57365)
+- Updated [JK's Guild HQ Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/61416)
+- Updated [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [JK's Warmaiden's](https://www.nexusmods.com/skyrimspecialedition/mods/33685)
+- Updated [Lux Via](https://www.nexusmods.com/skyrimspecialedition/mods/63588)
+- Updated [Majestic Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/41857)
+- Updated [Markarth Mossy Lite](https://www.nexusmods.com/skyrimspecialedition/mods/84706)
+- Updated [Quaint Raven Rock Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35290)
+- Updated [The Great City of Winterhold Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74560)
+- Updated [The Great Town of Shor's Stone Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/36462)
+- Updated [The Great Village of Kynesgrove Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/42957)
+- Updated [Universal Cured Serana Eye Fix](https://www.nexusmods.com/skyrimspecialedition/mods/74759)
+- Updated [Unofficial eFPS patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
+- Removed [Alternate 3D Main Menu - Anniversary Edition (NORDIC UI)](https://www.nexusmods.com/skyrimspecialedition/mods/64049)
+- Removed [Main Menu Design Replacer - Multilanguage - 60 FPS](https://www.nexusmods.com/skyrimspecialedition/mods/30810)
+
+### Tweaks and Fixes:
+- Fixed a dozen or so xEdit bugs.
+- Fixed an issue where enabling the widescreen fix for map.swf would get overwritten by Beyond Skyrim - Bruma.
+- Improve widescreen positioning for the compass, quest list, recent loot, and boss bar widget.
+- Tweak the stock ENB for slightly better performance, etc.
