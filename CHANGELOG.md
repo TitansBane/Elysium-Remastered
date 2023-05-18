@@ -2067,3 +2067,30 @@
 - Fixed an issue where enabling the widescreen fix for map.swf would get overwritten by Beyond Skyrim - Bruma.
 - Improve widescreen positioning for the compass, quest list, recent loot, and boss bar widget.
 - Tweak the stock ENB for slightly better performance, etc.
+
+## Elysium Remastered v3.2.0
+
+### Released at: `5/17/2023`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [DLC2PillarBuilderActorScript Tweak](https://www.nexusmods.com/skyrimspecialedition/mods/91431)
+- Added [Rustic Furniture UV fix](https://www.nexusmods.com/skyrimspecialedition/mods/86539)
+- Added [Statue of Kynareth](https://www.nexusmods.com/skyrimspecialedition/mods/91358)
+- Added [Statue of Kynareth - My patches SE](https://www.nexusmods.com/skyrimspecialedition/mods/91379)
+- Added [World Encounter Hostility Fix](https://www.nexusmods.com/skyrimspecialedition/mods/91403)
+- Updated [Better tomboys (wide spread arms fix) DAR animations](https://www.nexusmods.com/skyrimspecialedition/mods/90569)
+- Updated [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123)
+- Updated [Gesture Animation Remix (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/64420)
+- Updated [Icy Cave Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/90476)
+- Updated [Icy Mesh Remaster - Ice Glaciers - LOD - Caves](https://www.nexusmods.com/skyrimspecialedition/mods/73381)
+- Updated [JK's Guild HQ Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/61416)
+- Updated [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245)
+
+### Tweaks and Fixes:
+- Fixed an AllGUD script, which used the wrong slot, hiding NPC's facial hair whenever they unequipped their shields.
+- Fixed CTDs caused by ruinsspidersac05.nif broken collision.
