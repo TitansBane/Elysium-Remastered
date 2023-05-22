@@ -137,9 +137,9 @@ Elysium Remastered utilizes all Creation Club content for Legacy of the Dragonbo
 
 ### ENB
 
-Elysium Remastered comes configured with a tweak combination of both [NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.0](https://www.nexusmods.com/skyrimspecialedition/mods/27141) and [PRT XII - PhotoRealistic Tamriel 12](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
+By default, Elysium Remastered comes configured with [Rudy ENB for NAT 3](https://www.nexusmods.com/skyrimspecialedition/mods/91675)
 
-Suppose you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support NAT.ENB. To replace the stock ENB, click on the `Spanner and Screwdriver` icon in MO2, select `Root Builder`, and tick the `Installer` checkbox under `Settings`. Add the ENB as a new mod in MO2. Rootbuilder should assign it correctly. Disable ENBSeries - NAT.ENB III + PRT XII ENB and activate your new ENB.
+Suppose you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support NAT.ENB III. To replace the stock ENB, click on the `Jigsaw Puzzles` icon in MO2, select `Root Builder`, and tick the `Installer` checkbox under `Settings`. Add the ENB as a new mod in MO2. Rootbuilder should assign it correctly. Disable ENBSeries - Rudy ENB for NAT 3 and activate your new ENB.
 
 A few other ENB suggestions are:
 
