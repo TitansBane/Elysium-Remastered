@@ -2094,3 +2094,31 @@
 ### Tweaks and Fixes:
 - Fixed an AllGUD script, which used the wrong slot, hiding NPC's facial hair whenever they unequipped their shields.
 - Fixed CTDs caused by ruinsspidersac05.nif broken collision.
+
+## Elysium Remastered v3.3.0
+
+### Released at: `Unreleased`
+
+### Info:
+
+- This update is not save game compatible
+
+### Download Changes:
+
+- Added [Conditional Expressions Extended](https://www.nexusmods.com/skyrimspecialedition/mods/91438)
+- Added [FYX - Vanilla Table Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/91613)
+- Added [Nordic Ruins Rubble Pile - Mesh Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/79508)
+- Added [Rudy ENB for NAT 3](https://www.nexusmods.com/skyrimspecialedition/mods/91675)
+- Updated [Conditional Expressions - Subtle Face Animations - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/59851)
+- Updated [Foamimi's Salt and Wind Retexture Hub](https://www.nexusmods.com/skyrimspecialedition/mods/75663)
+- Updated [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847)
+- Updated [Icy Mesh Remaster - Ice Glaciers - LOD - Caves](https://www.nexusmods.com/skyrimspecialedition/mods/73381)
+- Updated [LOD Model Library for DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/87521)
+- Updated [NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.1.1B](https://www.nexusmods.com/skyrimspecialedition/mods/27141)
+- Updated [Witcher Horse Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/72490)
+- Updated [World Encounter Hostility Fix](https://www.nexusmods.com/skyrimspecialedition/mods/91403)
+- Removed [PRT XII - PhotoRealistic Tamriel 12.6](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
+
+### Tweaks and Fixes:
+- Added Sink Or Swim support for R.A.S.S. so visuals work when walking underwater.
+- Fixed several reported bugs.
