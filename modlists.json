@@ -23,17 +23,17 @@
     "links": {
       "image": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/image/Elysium_Remastered_Banner.webp",
       "readme": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Elysium%20Remastered.wabbajack_3ed7d440-7414-406d-ad41-5dad3b61db7e",
+      "download": "https://authored-files.wabbajack.org/Elysium%20Remastered.wabbajack_81b17644-a118-4252-9d38-e39ca10429b6",
       "machineURL": "elysium",
       "discordURL": "https://discord.gg/FAfPb9T"
     },
     "download_metadata": {
-      "Hash": "BASRpKvx0Eo=",
-      "Size": 2172089765,
+      "Hash": "ou52QGDaMRc=",
+      "Size": 2172092188,
       "NumberOfArchives": 2538,
-      "SizeOfArchives": 193641906287,
-      "NumberOfInstalledFiles": 317584,
-      "SizeOfInstalledFiles": 347405240863
+      "SizeOfArchives": 193642273585,
+      "NumberOfInstalledFiles": 317585,
+      "SizeOfInstalledFiles": 347407292386
     },
     "version": "3.3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
