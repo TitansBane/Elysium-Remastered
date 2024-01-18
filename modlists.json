@@ -1,7 +1,7 @@
 [
   {
     "title": "Elysium Remastered",
-    "description": "Elysium Remastered is a complete rebuild of the original Elysium modlist. Like the original, it focuses primarily on visuals and is fully featured with hundreds of new additions and full Creation Club support—extending the base setup with Enai Siaion's full suite of gameplay overhauls and various new quests and encounters. (6GB+ of VRAM Required.)",
+    "description": "Elysium Remastered is a complete rebuild of the original Elysium modlist. Like the original, it focuses primarily on visuals and is fully featured with hundreds of new additions and full Creation Club support\u2014extending the base setup with Enai Siaion\u0027s full suite of gameplay overhauls and various new quests and encounters. (6GB\u002B of VRAM Required.)",
     "author": "TitansBane",
     "maintainers": [
       "github/TitansBane",
@@ -20,25 +20,26 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/image/Elysium_Remastered_Banner.webp",
       "readme": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Elysium%20Remastered.wabbajack_03f05303-90ad-4362-bc02-36541411d8aa",
+      "download": "https://authored-files.wabbajack.org/Elysium Remastered.wabbajack_0413dff9-f64d-4333-91a2-fb9a724bdc9e",
       "machineURL": "elysium",
       "discordURL": "https://discord.gg/FAfPb9T"
     },
     "download_metadata": {
-      "Hash": "77PXP+btW3c=",
-      "Size": 2297774355,
+      "Hash": "ByvFmnxnNLA=",
+      "Size": 2297774694,
       "NumberOfArchives": 2531,
       "SizeOfArchives": 194214364479,
       "NumberOfInstalledFiles": 365249,
-      "SizeOfInstalledFiles": 348399862528
+      "SizeOfInstalledFiles": 348399862726
     },
     "version": "3.3.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
+    "dateUpdated": "2024-01-18T17:35:00.3460051Z",
     "repositoryName": ""
   }
 ]
