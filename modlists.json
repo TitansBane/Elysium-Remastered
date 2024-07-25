@@ -25,21 +25,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/image/Elysium_Remastered_Banner.webp",
       "readme": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Elysium Remastered.wabbajack_0413dff9-f64d-4333-91a2-fb9a724bdc9e",
+      "download": "https://authored-files.wabbajack.org/Elysium Remastered.wabbajack_937a62e1-fc2f-45f8-8794-496792e590c6",
       "machineURL": "elysium",
       "discordURL": "https://discord.gg/FAfPb9T"
     },
     "download_metadata": {
-      "Hash": "ByvFmnxnNLA=",
-      "Size": 2297774694,
-      "NumberOfArchives": 2531,
-      "SizeOfArchives": 194214364479,
-      "NumberOfInstalledFiles": 365249,
-      "SizeOfInstalledFiles": 348399862726
+      "Hash": "J4SlzH+ZE3U=",
+      "Size": 2351330782,
+      "NumberOfArchives": 2544,
+      "SizeOfArchives": 194197030182,
+      "NumberOfInstalledFiles": 365264,
+      "SizeOfInstalledFiles": 348400894400
     },
     "version": "3.3.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-18T17:35:00.3460051Z",
+    "dateUpdated": "2024-07-25T10:08:32.368383Z",
     "repositoryName": ""
   }
 ]
