@@ -263,6 +263,7 @@ These tweaks DO NOT break rule 11 unless otherwise mentioned, so please feel fre
 
 These are currently the custom controls added by Mods. Feel free to customize them within the Mod's MCM menus
 
+- Quick Light : L
 - Crouch Sliding - Crouch Slide : Press and hold Alt + Ctrl
 - Immersive HUD - Toggle HUD : X
 - Nether's Follower Framework - Horse Whistle : H
