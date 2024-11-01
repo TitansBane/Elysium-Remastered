@@ -224,6 +224,8 @@ Elysium also has a lot of modified vanilla quests such as:
 3. [Finding Helgi and Laelette](https://www.nexusmods.com/skyrimspecialedition/mods/28973)
 4. [Finding Velehk Sain](https://www.nexusmods.com/skyrimspecialedition/mods/19815)
 
+As for the Creation Club content; most of it is **delayed** with mods such as [Rebalancing Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition/mods/61004) or [CC Farming - Tweaks, Enhancement and Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/69029).
+
 ### Followers
 
 [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced Khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you are sneaking, he will not chatter, and he will whisper if you talk to him. He can run out of arrows. He is highly skilled in archery, one-handed, and sneak.
