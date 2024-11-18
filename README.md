@@ -305,7 +305,7 @@ You can remove the MO2 folder and be done with it. SKSE and ENB files will still
 
 ## Contact
 
-While I am sometimes available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/TitansBane/Elysium-Remastered/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+Use the [Wabbajack Discord](https://discord.gg/wabbajack), **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 ## Changelog
 
