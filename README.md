@@ -223,6 +223,7 @@ Elysium also has a lot of modified vanilla quests such as:
 2. [Finding Deerkethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550)
 3. [Finding Helgi and Laelette](https://www.nexusmods.com/skyrimspecialedition/mods/28973)
 4. [Finding Velehk Sain](https://www.nexusmods.com/skyrimspecialedition/mods/19815)
+5. [Realistic Dark Brotherhood Kidnapping](https://www.nexusmods.com/skyrimspecialedition/mods/68260) - You need to be in Morthal/Dawnstar/Solitude or their respective Holds.
 
 As for the Creation Club content; most of it is **delayed** with mods such as [Rebalancing Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition/mods/61004) or [CC Farming - Tweaks, Enhancement and Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/69029).
 
