@@ -259,8 +259,7 @@ All the required MCM options have been automated for you. Enjoy the game or twea
 
 ### Performance Help
 
-Elysium is a list designed for higher end PCs. But with some tweaks the list is certainly still playable on lower specs. Fortunately members of our community have put together [this guide](https://docs.google.com/document/d/12QomWYtzGeq62f6MZ-gMKf62Go1AhRFo/edit). 
-These tweaks DO NOT break rule 11 unless otherwise mentioned, so please feel free to ask questions in the community discord.
+Elysium is a list designed for higher end PCs. If you still want to run it, you should downscale the resolution in SSE Display Tweaks. Bear in mind that no GPU will run Elysium at 4K resolution.
 
 ### Controlmap
 
